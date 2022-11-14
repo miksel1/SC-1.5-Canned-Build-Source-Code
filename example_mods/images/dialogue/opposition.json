@@ -1,0 +1,24 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		70,
+		-50
+	],
+	"scale": 1.55,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				13
+			],
+			"idle_offsets": [
+				-1,
+				-1
+			],
+			"loop_name": "TALK",
+			"idle_name": "IDLE0"
+		}
+	],
+	"image": "opposition"
+}

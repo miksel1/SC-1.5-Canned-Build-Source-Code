@@ -1,0 +1,52 @@
+{
+	"storyName": "the farm",
+	"hideFreeplay": false,
+	"weekBackground": "farm",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Blocked",
+			"bambi",
+			[
+				0,
+				255,
+				0
+			]
+		],
+		[
+			"Sweetcorn",
+			"bambi",
+			[
+				0,
+				215,
+				0
+			]
+		],
+		[
+			"Revise",
+			"bambi",
+			[
+				0,
+				195,
+				0
+			]
+		],
+		[
+			"Cob",
+			"bambisadfreeplay",
+			[
+				0,
+				175,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": ""
+}

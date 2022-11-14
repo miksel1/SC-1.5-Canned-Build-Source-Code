@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bambispeak",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Why are you here again??"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bambispeak",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "ARE YOU HERE TO STEAL CORN!!?!?!?!?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "No wtf"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "He wants a rap battle because he was bored"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bambispeak",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "NO YOU HERE TO STEAL CORN YOU LIAR!!!!!1111!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "No I just want a rap battle damn"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bambispeak",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "FINE ONE ROUND THEN LEAVE"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "coolswag"
+		}
+	]
+}

@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				63,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "CoolJool_Left"
+		},
+		{
+			"offsets": [
+				-38,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "CoolJool_Right"
+		},
+		{
+			"offsets": [
+				22,
+				-62
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "CoolJool_Down"
+		},
+		{
+			"offsets": [
+				32,
+				66
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "CoolJool_Up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "danceLeft",
+			"loop": false,
+			"name": "CoolJool_IdleUp"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "danceRight",
+			"loop": false,
+			"name": "CoolJool_IdleDown"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "ok",
+			"loop": false,
+			"name": "CoolJool_ok"
+		},
+		{
+			"offsets": [
+				-100,
+				-320
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "cooljool",
+			"loop": false,
+			"name": "littletinybabyman"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cooljool",
+	"position": [
+		-20,
+		170
+	],
+	"healthicon": "jool",
+	"flip_x": false,
+	"healthbar_colors": [
+		37,
+		37,
+		205
+	],
+	"camera_position": [
+		-20,
+		60
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

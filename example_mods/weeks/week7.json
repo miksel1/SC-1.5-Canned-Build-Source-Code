@@ -1,0 +1,48 @@
+{
+	"songs": [
+		[
+			"Faker",
+			"faker",
+			[
+				75,
+				0,
+				0
+			]
+		],
+		[
+			"Divinity",
+			"faker",
+			[
+				26,
+				26,
+				26
+			]
+		],
+		[
+			"Incinerate",
+			"oppx",
+			[
+				26,
+				26,
+				26
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "faking",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "...",
+	"weekName": "Faker",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

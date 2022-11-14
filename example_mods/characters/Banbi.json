@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				320
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "Banbi Idle1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				320
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "Banbi Idle2",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				320
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Banbi Idle1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				150,
+				310
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Banbi Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-125,
+				330
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Banbi Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				25,
+				300
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Banbi Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				74,
+				321
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Banbi Up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/banbi",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "banbi",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-30,
+		-230
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

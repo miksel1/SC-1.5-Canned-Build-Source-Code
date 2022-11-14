@@ -1,0 +1,8 @@
+Toggles Up/Downscroll of a receptor.
+
+Value 1: A String of 8 binary characters.
+1 Flips a receptor.
+0 Ignores a receptor.
+
+--Dont Forget to credit me if used lol!!!!
+-Bloops

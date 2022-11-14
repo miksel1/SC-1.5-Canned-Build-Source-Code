@@ -1,0 +1,50 @@
+{
+	"position": [
+		210,
+		130
+	],
+	"dialogue_pos": "left",
+	"scale": 1.3,
+	"image": "bambispeak",
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "talkingidle0",
+			"loop_name": "talking normal"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "pissed",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "talkingidle aggitated",
+			"loop_name": "talking aggitated"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "confused",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "talking confused",
+			"idle_name": "talkingidle confused"
+		}
+	]
+}

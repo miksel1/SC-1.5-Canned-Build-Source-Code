@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 18,
+			"name": "diambi idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-110,
+				-10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "diambi right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				300,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "diambi left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-90
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "diambi down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				160
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "diambi up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/diambi",
+	"position": [
+		-300,
+		-160
+	],
+	"healthicon": "diambi",
+	"flip_x": false,
+	"healthbar_colors": [
+		20,
+		40,
+		121
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.3
+}

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="oppsitionx.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="LOSING0000" x="10" y="10" width="1094" height="1003" frameX="0" frameY="0" frameWidth="1095" frameHeight="1004"/>
+	<SubTexture name="LOSING0001" x="1124" y="10" width="1006" height="912" frameX="-49" frameY="-52" frameWidth="1095" frameHeight="1004"/>
+	<SubTexture name="LOSING0002" x="2150" y="10" width="1075" height="982" frameX="-20" frameY="-16" frameWidth="1095" frameHeight="1004"/>
+	<SubTexture name="LOSING0003" x="10" y="1033" width="1006" height="912" frameX="-49" frameY="-52" frameWidth="1095" frameHeight="1004"/>
+	<SubTexture name="LOSING0004" x="1036" y="1033" width="1082" height="991" frameX="-8" frameY="-13" frameWidth="1095" frameHeight="1004"/>
+	<SubTexture name="default0000" x="2138" y="1033" width="1070" height="979"/>
+	<SubTexture name="default0001" x="10" y="2044" width="1050" height="959" frameX="-14" frameY="-11" frameWidth="1070" frameHeight="979"/>
+	<SubTexture name="default0002" x="1080" y="2044" width="1045" height="952" frameX="-13" frameY="-12" frameWidth="1070" frameHeight="979"/>
+	<SubTexture name="default0003" x="2145" y="2044" width="1040" height="947" frameX="-17" frameY="-20" frameWidth="1070" frameHeight="979"/>
+</TextureAtlas>

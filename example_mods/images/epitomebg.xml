@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="epitomebg.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="static0000" x="0" y="0" width="1920" height="1500" frameX="-7" frameY="0" frameWidth="1927" frameHeight="1505"/>
+	<SubTexture name="static0001" x="1920" y="0" width="1920" height="1500" frameX="0" frameY="-2" frameWidth="1927" frameHeight="1505"/>
+	<SubTexture name="static0002" x="0" y="1500" width="1920" height="1500" frameX="0" frameY="-5" frameWidth="1927" frameHeight="1505"/>
+</TextureAtlas>

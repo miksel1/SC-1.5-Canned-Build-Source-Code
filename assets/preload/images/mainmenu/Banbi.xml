@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Banbi.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Banbi Down0000" x="0" y="0" width="661" height="586" pivotX="93.55" pivotY="15.3"/>
+	<SubTexture name="Banbi Down0001" x="661" y="0" width="661" height="586"/>
+	<SubTexture name="Banbi Down0002" x="1322" y="0" width="661" height="586"/>
+	<SubTexture name="Banbi Down0003" x="1983" y="0" width="661" height="586"/>
+	<SubTexture name="Banbi Down0004" x="1983" y="0" width="661" height="586"/>
+	<SubTexture name="Banbi Idle10000" x="2644" y="0" width="494" height="585" pivotX="85" pivotY="31.85"/>
+	<SubTexture name="Banbi Idle10001" x="3138" y="0" width="494" height="585"/>
+	<SubTexture name="Banbi Idle10002" x="0" y="586" width="494" height="585"/>
+	<SubTexture name="Banbi Idle10003" x="494" y="586" width="494" height="585"/>
+	<SubTexture name="Banbi Idle10004" x="988" y="586" width="494" height="585"/>
+	<SubTexture name="Banbi Idle10005" x="988" y="586" width="494" height="585"/>
+	<SubTexture name="Banbi Idle10006" x="988" y="586" width="494" height="585"/>
+	<SubTexture name="Banbi Idle10007" x="988" y="586" width="494" height="585"/>
+	<SubTexture name="Banbi Idle10008" x="988" y="586" width="494" height="585"/>
+	<SubTexture name="Banbi Idle10009" x="988" y="586" width="494" height="585"/>
+	<SubTexture name="Banbi Idle20000" x="988" y="586" width="494" height="585" pivotX="85" pivotY="31.85"/>
+	<SubTexture name="Banbi Idle20001" x="1482" y="586" width="494" height="585"/>
+	<SubTexture name="Banbi Idle20002" x="1976" y="586" width="494" height="585"/>
+	<SubTexture name="Banbi Idle20003" x="2470" y="586" width="494" height="585"/>
+	<SubTexture name="Banbi Idle20004" x="2644" y="0" width="494" height="585"/>
+	<SubTexture name="Banbi Idle20005" x="2644" y="0" width="494" height="585"/>
+	<SubTexture name="Banbi Idle20006" x="2644" y="0" width="494" height="585"/>
+	<SubTexture name="Banbi Idle20007" x="2644" y="0" width="494" height="585"/>
+	<SubTexture name="Banbi Idle20008" x="2644" y="0" width="494" height="585"/>
+	<SubTexture name="Banbi Idle20009" x="2644" y="0" width="494" height="585"/>
+	<SubTexture name="Banbi Left0000" x="2964" y="586" width="534" height="628" pivotX="198.8" pivotY="59.3"/>
+	<SubTexture name="Banbi Left0001" x="3498" y="586" width="534" height="628"/>
+	<SubTexture name="Banbi Left0002" x="0" y="1214" width="534" height="628"/>
+	<SubTexture name="Banbi Left0003" x="534" y="1214" width="534" height="628"/>
+	<SubTexture name="Banbi Left0004" x="534" y="1214" width="534" height="628"/>
+	<SubTexture name="Banbi Left0005" x="534" y="1214" width="534" height="628"/>
+	<SubTexture name="Banbi Right0000" x="1068" y="1214" width="700" height="640" pivotX="-15.2" pivotY="55.45"/>
+	<SubTexture name="Banbi Right0001" x="1768" y="1214" width="700" height="640"/>
+	<SubTexture name="Banbi Right0002" x="2468" y="1214" width="700" height="640"/>
+	<SubTexture name="Banbi Right0003" x="3168" y="1214" width="700" height="640"/>
+	<SubTexture name="Banbi Right0004" x="3168" y="1214" width="700" height="640"/>
+	<SubTexture name="Banbi Up0000" x="0" y="1854" width="699" height="641" pivotX="164.95" pivotY="84.25"/>
+	<SubTexture name="Banbi Up0001" x="699" y="1854" width="699" height="641"/>
+	<SubTexture name="Banbi Up0002" x="1398" y="1854" width="699" height="641"/>
+	<SubTexture name="Banbi Up0003" x="2097" y="1854" width="699" height="641"/>
+	<SubTexture name="Banbi Up0004" x="2097" y="1854" width="699" height="641"/>
+</TextureAtlas>

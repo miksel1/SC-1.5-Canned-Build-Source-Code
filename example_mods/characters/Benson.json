@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				24,
+				-95
+			],
+			"anim": "singRIGHT",
+			"fps": 20,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-280
+			],
+			"anim": "singDOWN",
+			"fps": 20,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				-129
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				262,
+				-62
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-90
+			],
+			"anim": "idle",
+			"fps": 20,
+			"name": "benson idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Benson",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "benson",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		120
+	],
+	"camera_position": [
+		-130,
+		120
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

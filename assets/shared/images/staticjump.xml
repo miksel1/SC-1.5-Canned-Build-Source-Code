@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="staticjump.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="jumpscare0000" x="0" y="0" width="1500" height="900"/>
+	<SubTexture name="jumpscare0001" x="1500" y="5" width="1500" height="895"/>
+	<SubTexture name="jumpscare0002" x="0" y="900" width="1500" height="900"/>
+	<SubTexture name="jumpscare0003" x="1500" y="900" width="1500" height="900"/>
+	<SubTexture name="jumpscare0004" x="0" y="1800" width="1500" height="900"/>
+	<SubTexture name="jumpscare0005" x="1500" y="1800" width="1500" height="900"/>
+</TextureAtlas>

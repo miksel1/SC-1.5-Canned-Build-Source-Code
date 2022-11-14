@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-26,
+				-109
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				-20,
+				-130
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-20,
+				-80
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				112,
+				-131
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-56,
+				-95
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/matiaris_3d",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "3dmatiaris",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		40,
+		255
+	],
+	"camera_position": [
+		10,
+		180
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

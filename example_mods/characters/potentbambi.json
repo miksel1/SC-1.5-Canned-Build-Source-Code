@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-60,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "POTENTDOWN instance"
+		},
+		{
+			"offsets": [
+				-25,
+				-35
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "POTENTLEFT instance"
+		},
+		{
+			"offsets": [
+				-55,
+				-39
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "POTENTRIGHT instance"
+		},
+		{
+			"offsets": [
+				-81,
+				4
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "POTENTUP instance"
+		},
+		{
+			"offsets": [
+				-10,
+				-30
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "POTENTIDLE instance"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Potent_Bambi",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "potent",
+	"flip_x": false,
+	"healthbar_colors": [
+		180,
+		180,
+		180
+	],
+	"camera_position": [
+		-130,
+		120
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

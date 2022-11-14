@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				2,
+				0
+			],
+			"indices": [],
+			"fps": 14,
+			"anim": "idle",
+			"loop": true,
+			"name": "Samber Idle"
+		},
+		{
+			"offsets": [
+				100,
+				-20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Samber Left"
+		},
+		{
+			"offsets": [
+				-80,
+				-20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Samber Right"
+		},
+		{
+			"offsets": [
+				-20,
+				-120
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Samber Down"
+		},
+		{
+			"offsets": [
+				-10,
+				80
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Samber Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Samber",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "Samber",
+	"flip_x": false,
+	"healthbar_colors": [
+		229,
+		108,
+		11
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

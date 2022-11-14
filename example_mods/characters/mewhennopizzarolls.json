@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-140,
+				-390
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "idle",
+			"indices": [],
+			"name": "a_bambi idle"
+		},
+		{
+			"offsets": [
+				-56,
+				-306
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "hey",
+			"indices": [],
+			"name": "a_bambi phone"
+		},
+		{
+			"offsets": [
+				-126,
+				-348
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singUP",
+			"indices": [],
+			"name": "a_bambi up"
+		},
+		{
+			"offsets": [
+				10,
+				-366
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "throw",
+			"indices": [],
+			"name": "a_bambi throw"
+		},
+		{
+			"offsets": [
+				-45,
+				-396
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "a_bambi left"
+		},
+		{
+			"offsets": [
+				-134,
+				-386
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "a_bambi right"
+		},
+		{
+			"offsets": [
+				-137,
+				-415
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "a_bambi down"
+		},
+		{
+			"offsets": [
+				-150,
+				-391
+			],
+			"indices": [],
+			"fps": 27,
+			"anim": "idiot",
+			"loop": false,
+			"name": "bambi idiot"
+		},
+		{
+			"offsets": [
+				-118,
+				-375
+			],
+			"indices": [],
+			"fps": 36,
+			"anim": "take out",
+			"loop": true,
+			"name": "shredder take out"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bambiPissy",
+	"position": [
+		-70,
+		20
+	],
+	"healthicon": "pissyboy",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		185,
+		0
+	],
+	"camera_position": [
+		80,
+		460
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

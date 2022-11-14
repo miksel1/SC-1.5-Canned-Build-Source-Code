@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-140,
+				-390
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "idle",
+			"loop": false,
+			"name": "shredder idle"
+		},
+		{
+			"offsets": [
+				-102,
+				-380
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "shredder left"
+		},
+		{
+			"offsets": [
+				-211,
+				-388
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "shredder right"
+		},
+		{
+			"offsets": [
+				-116,
+				-419
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "shredder down"
+		},
+		{
+			"offsets": [
+				-139,
+				-364
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "singUP",
+			"loop": false,
+			"name": "shredder up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bambipissyguitar",
+	"position": [
+		-70,
+		20
+	],
+	"healthicon": "pissyboy",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		185,
+		0
+	],
+	"camera_position": [
+		90,
+		470
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

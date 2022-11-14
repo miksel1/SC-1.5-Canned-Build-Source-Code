@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				374,
+				-174
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "bambintonLeft"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				110,
+				-146
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "bambintonRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-22,
+				-180
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "bambintonDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				-125
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "bambintonUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				-145
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "bambintonIdle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Bambinton",
+	"position": [
+		-205,
+		-270
+	],
+	"healthicon": "bambinton",
+	"flip_x": false,
+	"healthbar_colors": [
+		100,
+		80,
+		255
+	],
+	"camera_position": [
+		-30,
+		300
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}

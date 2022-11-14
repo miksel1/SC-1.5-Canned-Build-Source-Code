@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cooljool.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="CoolJool_Down0000" x="20" y="20" width="449" height="501" frameX="0" frameY="-13" frameWidth="449" frameHeight="515"/>
+	<SubTexture name="CoolJool_Down0001" x="20" y="20" width="449" height="501" frameX="0" frameY="-13" frameWidth="449" frameHeight="515"/>
+	<SubTexture name="CoolJool_Down0002" x="509" y="20" width="438" height="514" frameX="-6" frameY="-1" frameWidth="449" frameHeight="515"/>
+	<SubTexture name="CoolJool_Down0003" x="509" y="20" width="438" height="514" frameX="-6" frameY="-1" frameWidth="449" frameHeight="515"/>
+	<SubTexture name="CoolJool_Down0004" x="987" y="20" width="436" height="515" frameX="-7" frameY="0" frameWidth="449" frameHeight="515"/>
+	<SubTexture name="CoolJool_Down0005" x="987" y="20" width="436" height="515" frameX="-7" frameY="0" frameWidth="449" frameHeight="515"/>
+	<SubTexture name="CoolJool_Down0006" x="987" y="20" width="436" height="515" frameX="-7" frameY="0" frameWidth="449" frameHeight="515"/>
+	<SubTexture name="CoolJool_Down0007" x="987" y="20" width="436" height="515" frameX="-7" frameY="0" frameWidth="449" frameHeight="515"/>
+	<SubTexture name="CoolJool_Down0008" x="987" y="20" width="436" height="515" frameX="-7" frameY="0" frameWidth="449" frameHeight="515"/>
+	<SubTexture name="CoolJool_Down0009" x="987" y="20" width="436" height="515" frameX="-7" frameY="0" frameWidth="449" frameHeight="515"/>
+	<SubTexture name="CoolJool_Down0010" x="987" y="20" width="436" height="515" frameX="-7" frameY="0" frameWidth="449" frameHeight="515"/>
+	<SubTexture name="CoolJool_Down0011" x="987" y="20" width="436" height="515" frameX="-7" frameY="0" frameWidth="449" frameHeight="515"/>
+	<SubTexture name="CoolJool_Down0012" x="987" y="20" width="436" height="515" frameX="-7" frameY="0" frameWidth="449" frameHeight="515"/>
+	<SubTexture name="CoolJool_Down0013" x="987" y="20" width="436" height="515" frameX="-7" frameY="0" frameWidth="449" frameHeight="515"/>
+	<SubTexture name="CoolJool_IdleDown0000" x="1463" y="20" width="418" height="573" frameX="-1" frameY="0" frameWidth="431" frameHeight="573"/>
+	<SubTexture name="CoolJool_IdleDown0001" x="1463" y="20" width="418" height="573" frameX="-1" frameY="0" frameWidth="431" frameHeight="573"/>
+	<SubTexture name="CoolJool_IdleDown0002" x="1921" y="20" width="429" height="568" frameX="0" frameY="-5" frameWidth="431" frameHeight="573"/>
+	<SubTexture name="CoolJool_IdleDown0003" x="1921" y="20" width="429" height="568" frameX="0" frameY="-5" frameWidth="431" frameHeight="573"/>
+	<SubTexture name="CoolJool_IdleDown0004" x="2390" y="20" width="431" height="567" frameX="0" frameY="-6" frameWidth="431" frameHeight="573"/>
+	<SubTexture name="CoolJool_IdleDown0005" x="2390" y="20" width="431" height="567" frameX="0" frameY="-6" frameWidth="431" frameHeight="573"/>
+	<SubTexture name="CoolJool_IdleDown0006" x="2861" y="20" width="431" height="566" frameX="0" frameY="-7" frameWidth="431" frameHeight="573"/>
+	<SubTexture name="CoolJool_IdleDown0007" x="2861" y="20" width="431" height="566" frameX="0" frameY="-7" frameWidth="431" frameHeight="573"/>
+	<SubTexture name="CoolJool_IdleDown0008" x="2861" y="20" width="431" height="566" frameX="0" frameY="-7" frameWidth="431" frameHeight="573"/>
+	<SubTexture name="CoolJool_IdleDown0009" x="2861" y="20" width="431" height="566" frameX="0" frameY="-7" frameWidth="431" frameHeight="573"/>
+	<SubTexture name="CoolJool_IdleDown0010" x="2861" y="20" width="431" height="566" frameX="0" frameY="-7" frameWidth="431" frameHeight="573"/>
+	<SubTexture name="CoolJool_IdleDown0011" x="2861" y="20" width="431" height="566" frameX="0" frameY="-7" frameWidth="431" frameHeight="573"/>
+	<SubTexture name="CoolJool_IdleDown0012" x="2861" y="20" width="431" height="566" frameX="0" frameY="-7" frameWidth="431" frameHeight="573"/>
+	<SubTexture name="CoolJool_IdleDown0013" x="2861" y="20" width="431" height="566" frameX="0" frameY="-7" frameWidth="431" frameHeight="573"/>
+	<SubTexture name="CoolJool_IdleUp0000" x="3332" y="20" width="433" height="563" frameX="0" frameY="-10" frameWidth="433" frameHeight="573"/>
+	<SubTexture name="CoolJool_IdleUp0001" x="3332" y="20" width="433" height="563" frameX="0" frameY="-10" frameWidth="433" frameHeight="573"/>
+	<SubTexture name="CoolJool_IdleUp0002" x="20" y="633" width="424" height="571" frameX="-1" frameY="-2" frameWidth="433" frameHeight="573"/>
+	<SubTexture name="CoolJool_IdleUp0003" x="20" y="633" width="424" height="571" frameX="-1" frameY="-2" frameWidth="433" frameHeight="573"/>
+	<SubTexture name="CoolJool_IdleUp0004" x="484" y="633" width="422" height="573" frameX="-1" frameY="0" frameWidth="433" frameHeight="573"/>
+	<SubTexture name="CoolJool_IdleUp0005" x="484" y="633" width="422" height="573" frameX="-1" frameY="0" frameWidth="433" frameHeight="573"/>
+	<SubTexture name="CoolJool_IdleUp0006" x="946" y="633" width="421" height="573" frameX="-1" frameY="0" frameWidth="433" frameHeight="573"/>
+	<SubTexture name="CoolJool_IdleUp0007" x="946" y="633" width="421" height="573" frameX="-1" frameY="0" frameWidth="433" frameHeight="573"/>
+	<SubTexture name="CoolJool_IdleUp0008" x="946" y="633" width="421" height="573" frameX="-1" frameY="0" frameWidth="433" frameHeight="573"/>
+	<SubTexture name="CoolJool_IdleUp0009" x="946" y="633" width="421" height="573" frameX="-1" frameY="0" frameWidth="433" frameHeight="573"/>
+	<SubTexture name="CoolJool_IdleUp0010" x="946" y="633" width="421" height="573" frameX="-1" frameY="0" frameWidth="433" frameHeight="573"/>
+	<SubTexture name="CoolJool_IdleUp0011" x="946" y="633" width="421" height="573" frameX="-1" frameY="0" frameWidth="433" frameHeight="573"/>
+	<SubTexture name="CoolJool_IdleUp0012" x="946" y="633" width="421" height="573" frameX="-1" frameY="0" frameWidth="433" frameHeight="573"/>
+	<SubTexture name="CoolJool_IdleUp0013" x="946" y="633" width="421" height="573" frameX="-1" frameY="0" frameWidth="433" frameHeight="573"/>
+	<SubTexture name="CoolJool_Left0000" x="1407" y="633" width="415" height="578" frameX="0" frameY="0" frameWidth="435" frameHeight="578"/>
+	<SubTexture name="CoolJool_Left0001" x="1407" y="633" width="415" height="578" frameX="0" frameY="0" frameWidth="435" frameHeight="578"/>
+	<SubTexture name="CoolJool_Left0002" x="1862" y="633" width="416" height="578" frameX="-17" frameY="0" frameWidth="435" frameHeight="578"/>
+	<SubTexture name="CoolJool_Left0003" x="1862" y="633" width="416" height="578" frameX="-17" frameY="0" frameWidth="435" frameHeight="578"/>
+	<SubTexture name="CoolJool_Left0004" x="2318" y="633" width="415" height="578" frameX="-20" frameY="0" frameWidth="435" frameHeight="578"/>
+	<SubTexture name="CoolJool_Left0005" x="2318" y="633" width="415" height="578" frameX="-20" frameY="0" frameWidth="435" frameHeight="578"/>
+	<SubTexture name="CoolJool_Left0006" x="2318" y="633" width="415" height="578" frameX="-20" frameY="0" frameWidth="435" frameHeight="578"/>
+	<SubTexture name="CoolJool_Left0007" x="2318" y="633" width="415" height="578" frameX="-20" frameY="0" frameWidth="435" frameHeight="578"/>
+	<SubTexture name="CoolJool_Left0008" x="2318" y="633" width="415" height="578" frameX="-20" frameY="0" frameWidth="435" frameHeight="578"/>
+	<SubTexture name="CoolJool_Left0009" x="2318" y="633" width="415" height="578" frameX="-20" frameY="0" frameWidth="435" frameHeight="578"/>
+	<SubTexture name="CoolJool_Left0010" x="2318" y="633" width="415" height="578" frameX="-20" frameY="0" frameWidth="435" frameHeight="578"/>
+	<SubTexture name="CoolJool_Left0011" x="2318" y="633" width="415" height="578" frameX="-20" frameY="0" frameWidth="435" frameHeight="578"/>
+	<SubTexture name="CoolJool_Left0012" x="2318" y="633" width="415" height="578" frameX="-20" frameY="0" frameWidth="435" frameHeight="578"/>
+	<SubTexture name="CoolJool_Left0013" x="2318" y="633" width="415" height="578" frameX="-20" frameY="0" frameWidth="435" frameHeight="578"/>
+	<SubTexture name="CoolJool_Right0000" x="2773" y="633" width="449" height="569" frameX="-6" frameY="-4" frameWidth="455" frameHeight="573"/>
+	<SubTexture name="CoolJool_Right0001" x="2773" y="633" width="449" height="569" frameX="-6" frameY="-4" frameWidth="455" frameHeight="573"/>
+	<SubTexture name="CoolJool_Right0002" x="3262" y="633" width="441" height="573" frameX="-1" frameY="0" frameWidth="455" frameHeight="573"/>
+	<SubTexture name="CoolJool_Right0003" x="3262" y="633" width="441" height="573" frameX="-1" frameY="0" frameWidth="455" frameHeight="573"/>
+	<SubTexture name="CoolJool_Right0004" x="20" y="1251" width="441" height="573" frameX="0" frameY="0" frameWidth="455" frameHeight="573"/>
+	<SubTexture name="CoolJool_Right0005" x="20" y="1251" width="441" height="573" frameX="0" frameY="0" frameWidth="455" frameHeight="573"/>
+	<SubTexture name="CoolJool_Right0006" x="20" y="1251" width="441" height="573" frameX="0" frameY="0" frameWidth="455" frameHeight="573"/>
+	<SubTexture name="CoolJool_Right0007" x="20" y="1251" width="441" height="573" frameX="0" frameY="0" frameWidth="455" frameHeight="573"/>
+	<SubTexture name="CoolJool_Right0008" x="20" y="1251" width="441" height="573" frameX="0" frameY="0" frameWidth="455" frameHeight="573"/>
+	<SubTexture name="CoolJool_Right0009" x="20" y="1251" width="441" height="573" frameX="0" frameY="0" frameWidth="455" frameHeight="573"/>
+	<SubTexture name="CoolJool_Right0010" x="20" y="1251" width="441" height="573" frameX="0" frameY="0" frameWidth="455" frameHeight="573"/>
+	<SubTexture name="CoolJool_Right0011" x="20" y="1251" width="441" height="573" frameX="0" frameY="0" frameWidth="455" frameHeight="573"/>
+	<SubTexture name="CoolJool_Right0012" x="20" y="1251" width="441" height="573" frameX="0" frameY="0" frameWidth="455" frameHeight="573"/>
+	<SubTexture name="CoolJool_Right0013" x="20" y="1251" width="441" height="573" frameX="0" frameY="0" frameWidth="455" frameHeight="573"/>
+	<SubTexture name="CoolJool_Up0000" x="501" y="1251" width="436" height="640" frameX="-6" frameY="0" frameWidth="448" frameHeight="640"/>
+	<SubTexture name="CoolJool_Up0001" x="501" y="1251" width="436" height="640" frameX="-6" frameY="0" frameWidth="448" frameHeight="640"/>
+	<SubTexture name="CoolJool_Up0002" x="977" y="1251" width="446" height="636" frameX="-1" frameY="-4" frameWidth="448" frameHeight="640"/>
+	<SubTexture name="CoolJool_Up0003" x="977" y="1251" width="446" height="636" frameX="-1" frameY="-4" frameWidth="448" frameHeight="640"/>
+	<SubTexture name="CoolJool_Up0004" x="1463" y="1251" width="448" height="636" frameX="0" frameY="-4" frameWidth="448" frameHeight="640"/>
+	<SubTexture name="CoolJool_Up0005" x="1463" y="1251" width="448" height="636" frameX="0" frameY="-4" frameWidth="448" frameHeight="640"/>
+	<SubTexture name="CoolJool_Up0006" x="1463" y="1251" width="448" height="636" frameX="0" frameY="-4" frameWidth="448" frameHeight="640"/>
+	<SubTexture name="CoolJool_Up0007" x="1463" y="1251" width="448" height="636" frameX="0" frameY="-4" frameWidth="448" frameHeight="640"/>
+	<SubTexture name="CoolJool_Up0008" x="1463" y="1251" width="448" height="636" frameX="0" frameY="-4" frameWidth="448" frameHeight="640"/>
+	<SubTexture name="CoolJool_Up0009" x="1463" y="1251" width="448" height="636" frameX="0" frameY="-4" frameWidth="448" frameHeight="640"/>
+	<SubTexture name="CoolJool_Up0010" x="1463" y="1251" width="448" height="636" frameX="0" frameY="-4" frameWidth="448" frameHeight="640"/>
+	<SubTexture name="CoolJool_Up0011" x="1463" y="1251" width="448" height="636" frameX="0" frameY="-4" frameWidth="448" frameHeight="640"/>
+	<SubTexture name="CoolJool_Up0012" x="1463" y="1251" width="448" height="636" frameX="0" frameY="-4" frameWidth="448" frameHeight="640"/>
+	<SubTexture name="CoolJool_Up0013" x="1463" y="1251" width="448" height="636" frameX="0" frameY="-4" frameWidth="448" frameHeight="640"/>
+	<SubTexture name="CoolJool_ok0000" x="1951" y="1251" width="421" height="573"/>
+	<SubTexture name="CoolJool_ok0001" x="1951" y="1251" width="421" height="573"/>
+	<SubTexture name="CoolJool_ok0002" x="1951" y="1251" width="421" height="573"/>
+	<SubTexture name="CoolJool_ok0003" x="1951" y="1251" width="421" height="573"/>
+	<SubTexture name="CoolJool_ok0004" x="1951" y="1251" width="421" height="573"/>
+	<SubTexture name="CoolJool_ok0005" x="1951" y="1251" width="421" height="573"/>
+	<SubTexture name="CoolJool_ok0006" x="1951" y="1251" width="421" height="573"/>
+	<SubTexture name="CoolJool_ok0007" x="2412" y="1251" width="421" height="573"/>
+	<SubTexture name="CoolJool_ok0008" x="2412" y="1251" width="421" height="573"/>
+	<SubTexture name="CoolJool_ok0009" x="2873" y="1251" width="419" height="573" frameX="0" frameY="0" frameWidth="421" frameHeight="573"/>
+	<SubTexture name="CoolJool_ok0010" x="3332" y="1251" width="416" height="573" frameX="0" frameY="0" frameWidth="421" frameHeight="573"/>
+	<SubTexture name="CoolJool_ok0011" x="3332" y="1251" width="416" height="573" frameX="0" frameY="0" frameWidth="421" frameHeight="573"/>
+	<SubTexture name="CoolJool_ok0012" x="20" y="1931" width="416" height="573" frameX="0" frameY="0" frameWidth="421" frameHeight="573"/>
+	<SubTexture name="CoolJool_ok0013" x="20" y="1931" width="416" height="573" frameX="0" frameY="0" frameWidth="421" frameHeight="573"/>
+	<SubTexture name="CoolJool_ok0014" x="20" y="1931" width="416" height="573" frameX="0" frameY="0" frameWidth="421" frameHeight="573"/>
+	<SubTexture name="CoolJool_ok0015" x="20" y="1931" width="416" height="573" frameX="0" frameY="0" frameWidth="421" frameHeight="573"/>
+	<SubTexture name="CoolJool_ok0016" x="20" y="1931" width="416" height="573" frameX="0" frameY="0" frameWidth="421" frameHeight="573"/>
+	<SubTexture name="CoolJool_ok0017" x="20" y="1931" width="416" height="573" frameX="0" frameY="0" frameWidth="421" frameHeight="573"/>
+	<SubTexture name="CoolJool_ok0018" x="20" y="1931" width="416" height="573" frameX="0" frameY="0" frameWidth="421" frameHeight="573"/>
+	<SubTexture name="CoolJool_ok0019" x="20" y="1931" width="416" height="573" frameX="0" frameY="0" frameWidth="421" frameHeight="573"/>
+	<SubTexture name="CoolJool_ok0020" x="20" y="1931" width="416" height="573" frameX="0" frameY="0" frameWidth="421" frameHeight="573"/>
+	<SubTexture name="CoolJool_ok0021" x="20" y="1931" width="416" height="573" frameX="0" frameY="0" frameWidth="421" frameHeight="573"/>
+	<SubTexture name="CoolJool_ok0022" x="20" y="1931" width="416" height="573" frameX="0" frameY="0" frameWidth="421" frameHeight="573"/>
+	<SubTexture name="CoolJool_ok0023" x="20" y="1931" width="416" height="573" frameX="0" frameY="0" frameWidth="421" frameHeight="573"/>
+	<SubTexture name="CoolJool_ok0024" x="20" y="1931" width="416" height="573" frameX="0" frameY="0" frameWidth="421" frameHeight="573"/>
+	<SubTexture name="CoolJool_ok0025" x="20" y="1931" width="416" height="573" frameX="0" frameY="0" frameWidth="421" frameHeight="573"/>
+	<SubTexture name="CoolJool_ok0026" x="20" y="1931" width="416" height="573" frameX="0" frameY="0" frameWidth="421" frameHeight="573"/>
+	<SubTexture name="CoolJool_ok0027" x="20" y="1931" width="416" height="573" frameX="0" frameY="0" frameWidth="421" frameHeight="573"/>
+	<SubTexture name="CoolJool_ok0028" x="20" y="1931" width="416" height="573" frameX="0" frameY="0" frameWidth="421" frameHeight="573"/>
+	<SubTexture name="CoolJool_ok0029" x="20" y="1931" width="416" height="573" frameX="0" frameY="0" frameWidth="421" frameHeight="573"/>
+	<SubTexture name="CoolJool_ok0030" x="20" y="1931" width="416" height="573" frameX="0" frameY="0" frameWidth="421" frameHeight="573"/>
+	<SubTexture name="CoolJool_ok0031" x="20" y="1931" width="416" height="573" frameX="0" frameY="0" frameWidth="421" frameHeight="573"/>
+	<SubTexture name="CoolJool_ok0032" x="20" y="1931" width="416" height="573" frameX="0" frameY="0" frameWidth="421" frameHeight="573"/>
+	<SubTexture name="CoolJool_ok0033" x="20" y="1931" width="416" height="573" frameX="0" frameY="0" frameWidth="421" frameHeight="573"/>
+	<SubTexture name="CoolJool_ok0034" x="20" y="1931" width="416" height="573" frameX="0" frameY="0" frameWidth="421" frameHeight="573"/>
+	<SubTexture name="CoolJool_ok0035" x="20" y="1931" width="416" height="573" frameX="0" frameY="0" frameWidth="421" frameHeight="573"/>
+	<SubTexture name="CoolJool_ok0036" x="20" y="1931" width="416" height="573" frameX="0" frameY="0" frameWidth="421" frameHeight="573"/>
+	<SubTexture name="CoolJool_ok0037" x="20" y="1931" width="416" height="573" frameX="0" frameY="0" frameWidth="421" frameHeight="573"/>
+	<SubTexture name="CoolJool_ok0038" x="3332" y="1251" width="416" height="573" frameX="0" frameY="0" frameWidth="421" frameHeight="573"/>
+	<SubTexture name="CoolJool_ok0039" x="3332" y="1251" width="416" height="573" frameX="0" frameY="0" frameWidth="421" frameHeight="573"/>
+	<SubTexture name="CoolJool_ok0040" x="2873" y="1251" width="419" height="573" frameX="0" frameY="0" frameWidth="421" frameHeight="573"/>
+	<SubTexture name="CoolJool_ok0041" x="2412" y="1251" width="421" height="573"/>
+	<SubTexture name="CoolJool_ok0042" x="2412" y="1251" width="421" height="573"/>
+	<SubTexture name="CoolJool_ok0043" x="1951" y="1251" width="421" height="573"/>
+	<SubTexture name="CoolJool_ok0044" x="1951" y="1251" width="421" height="573"/>
+	<SubTexture name="CoolJool_ok0045" x="476" y="1931" width="421" height="573"/>
+	<SubTexture name="CoolJool_ok0046" x="937" y="1931" width="421" height="573"/>
+	<SubTexture name="CoolJool_ok0047" x="937" y="1931" width="421" height="573"/>
+	<SubTexture name="CoolJool_ok0048" x="1398" y="1931" width="421" height="573"/>
+	<SubTexture name="CoolJool_ok0049" x="1398" y="1931" width="421" height="573"/>
+	<SubTexture name="CoolJool_ok0050" x="1859" y="1931" width="421" height="573"/>
+	<SubTexture name="CoolJool_ok0051" x="1859" y="1931" width="421" height="573"/>
+	<SubTexture name="CoolJool_ok0052" x="2320" y="1931" width="421" height="573"/>
+	<SubTexture name="CoolJool_ok0053" x="2320" y="1931" width="421" height="573"/>
+	<SubTexture name="CoolJool_ok0054" x="476" y="1931" width="421" height="573"/>
+	<SubTexture name="CoolJool_ok0055" x="1951" y="1251" width="421" height="573"/>
+	<SubTexture name="CoolJool_ok0056" x="1951" y="1251" width="421" height="573"/>
+	<SubTexture name="CoolJool_ok0057" x="1951" y="1251" width="421" height="573"/>
+	<SubTexture name="CoolJool_ok0058" x="1951" y="1251" width="421" height="573"/>
+	<SubTexture name="CoolJool_ok0059" x="1951" y="1251" width="421" height="573"/>
+	<SubTexture name="CoolJool_ok0060" x="1951" y="1251" width="421" height="573"/>
+	<SubTexture name="CoolJool_ok0061" x="1951" y="1251" width="421" height="573"/>
+	<SubTexture name="littletinybabyman0000" x="2781" y="1931" width="143" height="250"/>
+</TextureAtlas>

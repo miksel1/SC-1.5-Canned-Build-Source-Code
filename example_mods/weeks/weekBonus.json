@@ -1,0 +1,192 @@
+{
+	"storyName": "bonus",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "week4",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Ornery",
+			"nampi",
+			[
+				200,
+				215,
+				0
+			]
+		],
+		[
+			"Golden",
+			"benson",
+			[
+				240,
+				255,
+				0
+			]
+		],
+		[
+			"Potent",
+			"potent",
+			[
+				130,
+				130,
+				130
+			]
+		],
+		[
+			"Obscure",
+			"samber",
+			[
+				206,
+				173,
+				0
+			]
+		],
+		[
+			"Mac Party",
+			"sammac",
+			[
+				206,
+				173,
+				0
+			]
+		],
+		[
+			"Cheeting",
+			"samber",
+			[
+				206,
+				173,
+				0
+			]
+		],
+		[
+			"Delirium",
+			"impossible",
+			[
+				0,
+				20,
+				40
+			]
+		],
+		[
+			"Ether",
+			"bamb",
+			[
+				0,
+				0,
+				20
+			]
+		],
+		[
+			"Opposition But Awesome",
+			"god",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Metaphysical",
+			"meta",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Family Bonding",
+			"bumbo",
+			[
+				0,
+				113,
+				253
+			]
+		],
+		[
+			"mati spits a fact",
+			"descarga",
+			[
+				195,
+				195,
+				175
+			]
+		],
+		[
+			"Automation",
+			"bumbo",
+			[
+				0,
+				113,
+				253
+			]
+		],
+		[
+			"Green Remix",
+			"green",
+			[
+				0,
+				175,
+				0
+			]
+		],
+		[
+			"Theoretical",
+			"theorexpunged",
+			[
+				126,
+				73,
+				215
+			]
+		],
+		[
+			"Idot",
+			"idiot",
+			[
+				255,
+				0,
+				255
+			]
+		],
+		[
+			"7 Cubed",
+			"3dseven",
+			[
+				200,
+				0,
+				180
+			]
+		],
+		[
+			"Paperbound",
+			"paperbound",
+			[
+				175,
+				0,
+				135
+			]
+		],
+		[
+			"Nihility",
+			"orbi",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"weekName": "coolshit"
+}

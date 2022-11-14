@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-100,
+				-330
+			],
+			"loop": true,
+			"fps": 20,
+			"anim": "idle",
+			"indices": [],
+			"name": "a_bambi idle"
+		},
+		{
+			"offsets": [
+				-78,
+				-164
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singUP",
+			"indices": [],
+			"name": "a_bambi up"
+		},
+		{
+			"offsets": [
+				23,
+				-338
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "a_bambi left"
+		},
+		{
+			"offsets": [
+				35,
+				-362
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "a_bambi down"
+		},
+		{
+			"offsets": [
+				-41,
+				-275
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "a_bambi right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mareloangry",
+	"position": [
+		150,
+		210
+	],
+	"healthicon": "angermarelo",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		20,
+		460
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

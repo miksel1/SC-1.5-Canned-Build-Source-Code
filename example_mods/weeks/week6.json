@@ -1,0 +1,30 @@
+{
+	"storyName": "..-. .. -. .- .-.. .",
+	"hideFreeplay": false,
+	"weekBackground": "them",
+	"weekBefore": "week5",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Taimuresu",
+			"tai",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "..."
+}

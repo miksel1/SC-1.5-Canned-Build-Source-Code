@@ -1,0 +1,30 @@
+{
+	"storyName": "bambi takes a shit and dies",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"hjoim",
+			"banbi",
+			[
+				2,
+				2,
+				2
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "hjoim"
+}

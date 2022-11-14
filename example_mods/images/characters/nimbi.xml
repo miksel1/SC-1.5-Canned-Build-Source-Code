@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="nimbi.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Down0000" x="3200" y="0" width="800" height="600"/>
+	<SubTexture name="Down0001" x="0" y="600" width="800" height="600"/>
+	<SubTexture name="Down0002" x="800" y="600" width="800" height="600"/>
+	<SubTexture name="Idle0000" x="2400" y="0" width="800" height="600"/>
+	<SubTexture name="Left0000" x="1600" y="600" width="800" height="600"/>
+	<SubTexture name="Left0001" x="2400" y="600" width="800" height="600"/>
+	<SubTexture name="Left0002" x="3200" y="600" width="800" height="600"/>
+	<SubTexture name="Right0000" x="0" y="1200" width="800" height="600"/>
+	<SubTexture name="Right0001" x="800" y="1200" width="800" height="600"/>
+	<SubTexture name="Right0002" x="1600" y="1200" width="800" height="600"/>
+	<SubTexture name="Up0000" x="0" y="0" width="800" height="600"/>
+	<SubTexture name="Up0001" x="800" y="0" width="800" height="600"/>
+	<SubTexture name="Up0002" x="1600" y="0" width="800" height="600"/>
+</TextureAtlas>

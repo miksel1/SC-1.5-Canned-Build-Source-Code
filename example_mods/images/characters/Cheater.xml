@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Cheater.png">
+	<!-- Created with Adobe Animate version 22.0.4.185 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Cheater Down0000" x="20" y="20" width="448" height="697" frameX="0" frameY="-5" frameWidth="452" frameHeight="710"/>
+	<SubTexture name="Cheater Down0001" x="508" y="20" width="447" height="710" frameX="-5" frameY="0" frameWidth="452" frameHeight="710"/>
+	<SubTexture name="Cheater Idle0000" x="995" y="20" width="441" height="727" frameX="-30" frameY="-16" frameWidth="471" frameHeight="743"/>
+	<SubTexture name="Cheater Idle0001" x="1476" y="20" width="441" height="730" frameX="-15" frameY="-8" frameWidth="471" frameHeight="743"/>
+	<SubTexture name="Cheater Idle0002" x="1957" y="20" width="441" height="731" frameX="0" frameY="0" frameWidth="471" frameHeight="743"/>
+	<SubTexture name="Cheater Left0000" x="2438" y="20" width="473" height="764" frameX="-10" frameY="0" frameWidth="483" frameHeight="779"/>
+	<SubTexture name="Cheater Left0001" x="2951" y="20" width="482" height="779" frameX="0" frameY="0" frameWidth="483" frameHeight="779"/>
+	<SubTexture name="Cheater Right0000" x="3473" y="20" width="566" height="749"/>
+	<SubTexture name="Cheater Right0001" x="20" y="839" width="440" height="718" frameX="-36" frameY="-20" frameWidth="566" frameHeight="749"/>
+	<SubTexture name="Cheater Up0000" x="500" y="839" width="441" height="762" frameX="0" frameY="0" frameWidth="444" frameHeight="762"/>
+	<SubTexture name="Cheater Up0001" x="981" y="839" width="440" height="745" frameX="-4" frameY="-14" frameWidth="444" frameHeight="762"/>
+</TextureAtlas>

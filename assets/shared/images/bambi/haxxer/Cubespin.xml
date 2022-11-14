@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Cubespin.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Speen0000" x="20" y="20" width="2560" height="1400"/>
+	<SubTexture name="Speen0001" x="20" y="20" width="2560" height="1400"/>
+	<SubTexture name="Speen0002" x="2630" y="20" width="2560" height="1400"/>
+	<SubTexture name="Speen0003" x="2630" y="20" width="2560" height="1400"/>
+	<SubTexture name="Speen0004" x="5240" y="20" width="2560" height="1400"/>
+	<SubTexture name="Speen0005" x="5240" y="20" width="2560" height="1400"/>
+	<SubTexture name="Speen0006" x="2630" y="20" width="2560" height="1400"/>
+	<SubTexture name="Speen0007" x="2630" y="20" width="2560" height="1400"/>
+</TextureAtlas>

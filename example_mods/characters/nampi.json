@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				124,
+				475
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Nampi Right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				220,
+				470
+			],
+			"anim": "idle",
+			"fps": 14,
+			"name": "Nampi Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				240,
+				340
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Nampi Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				472,
+				468
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Nampi Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				194,
+				541
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Nampi Up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/nampi",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "nampi",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		-2147483648
+	],
+	"camera_position": [
+		-70,
+		-190
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

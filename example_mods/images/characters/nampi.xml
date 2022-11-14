@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="nampi.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Nampi Down0000" x="20" y="20" width="828" height="994" frameX="-11" frameY="0" frameWidth="842" frameHeight="1009"/>
+	<SubTexture name="Nampi Down0001" x="898" y="20" width="828" height="931" frameX="-14" frameY="-65" frameWidth="842" frameHeight="1009"/>
+	<SubTexture name="Nampi Down0002" x="1776" y="20" width="830" height="814" frameX="-3" frameY="-195" frameWidth="842" frameHeight="1009"/>
+	<SubTexture name="Nampi Down0003" x="2656" y="20" width="836" height="882" frameX="0" frameY="-53" frameWidth="842" frameHeight="1009"/>
+	<SubTexture name="Nampi Idle0000" x="3542" y="20" width="777" height="1143" frameX="0" frameY="-33" frameWidth="777" frameHeight="1195"/>
+	<SubTexture name="Nampi Idle0001" x="4369" y="20" width="777" height="1182" frameX="0" frameY="-9" frameWidth="777" frameHeight="1195"/>
+	<SubTexture name="Nampi Idle0002" x="3542" y="20" width="777" height="1143" frameX="0" frameY="-33" frameWidth="777" frameHeight="1195"/>
+	<SubTexture name="Nampi Idle0003" x="5196" y="20" width="777" height="1195"/>
+	<SubTexture name="Nampi Left0000" x="6023" y="20" width="1124" height="1266" frameX="0" frameY="-39" frameWidth="1149" frameHeight="1307"/>
+	<SubTexture name="Nampi Left0001" x="20" y="1336" width="1100" height="1277" frameX="-26" frameY="-30" frameWidth="1149" frameHeight="1307"/>
+	<SubTexture name="Nampi Left0002" x="1170" y="1336" width="1076" height="1273" frameX="-51" frameY="-3" frameWidth="1149" frameHeight="1307"/>
+	<SubTexture name="Nampi Left0003" x="2296" y="1336" width="958" height="1286" frameX="-191" frameY="0" frameWidth="1149" frameHeight="1307"/>
+	<SubTexture name="Nampi Right0000" x="3304" y="1336" width="783" height="1165" frameX="-23" frameY="-2" frameWidth="947" frameHeight="1171"/>
+	<SubTexture name="Nampi Right0001" x="4137" y="1336" width="870" height="1167" frameX="0" frameY="-4" frameWidth="947" frameHeight="1171"/>
+	<SubTexture name="Nampi Right0002" x="5057" y="1336" width="945" height="1163" frameX="-2" frameY="-6" frameWidth="947" frameHeight="1171"/>
+	<SubTexture name="Nampi Right0003" x="6052" y="1336" width="883" height="1171" frameX="-44" frameY="0" frameWidth="947" frameHeight="1171"/>
+	<SubTexture name="Nampi Up0000" x="6985" y="1336" width="785" height="1221" frameX="-13" frameY="-34" frameWidth="798" frameHeight="1262"/>
+	<SubTexture name="Nampi Up0001" x="20" y="2672" width="785" height="1240" frameX="-13" frameY="-2" frameWidth="798" frameHeight="1262"/>
+	<SubTexture name="Nampi Up0002" x="855" y="2672" width="785" height="1248" frameX="0" frameY="0" frameWidth="798" frameHeight="1262"/>
+	<SubTexture name="Nampi Up0003" x="1690" y="2672" width="785" height="1235" frameX="0" frameY="-27" frameWidth="798" frameHeight="1262"/>
+</TextureAtlas>

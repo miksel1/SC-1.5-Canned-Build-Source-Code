@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="him.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gone0000" x="0" y="0" width="283" height="451"/>
+	<SubTexture name="gone0001" x="283" y="0" width="283" height="451"/>
+	<SubTexture name="gone0002" x="566" y="0" width="283" height="451"/>
+	<SubTexture name="gone0003" x="849" y="0" width="283" height="451"/>
+	<SubTexture name="gone0004" x="1132" y="0" width="283" height="451"/>
+	<SubTexture name="gone0005" x="1415" y="0" width="283" height="451"/>
+	<SubTexture name="gone0006" x="1415" y="0" width="283" height="451"/>
+	<SubTexture name="gone0007" x="1415" y="0" width="283" height="451"/>
+	<SubTexture name="gone0008" x="1415" y="0" width="283" height="451"/>
+	<SubTexture name="gone0009" x="1415" y="0" width="283" height="451"/>
+	<SubTexture name="gone0010" x="1415" y="0" width="283" height="451"/>
+	<SubTexture name="gone0011" x="1415" y="0" width="283" height="451"/>
+	<SubTexture name="gone0012" x="1415" y="0" width="283" height="451"/>
+	<SubTexture name="gone0013" x="1415" y="0" width="283" height="451"/>
+	<SubTexture name="idle0000" x="1698" y="0" width="283" height="451"/>
+</TextureAtlas>

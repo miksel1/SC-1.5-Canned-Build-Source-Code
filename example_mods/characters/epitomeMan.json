@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				399,
+				281
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Gerald Uo"
+		},
+		{
+			"offsets": [
+				283,
+				23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Gerald Down"
+		},
+		{
+			"offsets": [
+				666,
+				13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Gerald Left"
+		},
+		{
+			"offsets": [
+				295,
+				9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Gerald Right"
+		},
+		{
+			"offsets": [
+				321,
+				84
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "Gerald Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/epitoes",
+	"position": [
+		185,
+		50
+	],
+	"healthicon": "epitome",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		180,
+		0
+	],
+	"camera_position": [
+		-450,
+		-20
+	],
+	"sing_duration": 3,
+	"scale": 1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-120,
+				-20
+			],
+			"anim": "idle",
+			"fps": 14,
+			"name": "SamMacIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				220,
+				-17
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "SamMacLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-200,
+				-36
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "SamMacRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-126,
+				100
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "SamMacUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-66,
+				-140
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "SamMacDown",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Samberwithmac",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "samber",
+	"flip_x": false,
+	"healthbar_colors": [
+		249,
+		108,
+		11
+	],
+	"camera_position": [
+		-110,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

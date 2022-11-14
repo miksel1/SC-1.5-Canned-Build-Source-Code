@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bambispeak",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ok now can you leave "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "No"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bambispeak",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Leave or im gonna break my phone"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bro just one more round please"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bambispeak",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "FINE BUT ONLY ONE MORE OR I BLOCK YOU"
+		}
+	]
+}

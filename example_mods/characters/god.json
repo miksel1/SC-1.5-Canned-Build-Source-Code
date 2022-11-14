@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-6,
+				393
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "m-best idle"
+		},
+		{
+			"offsets": [
+				109,
+				375
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "m-best down"
+		},
+		{
+			"offsets": [
+				-6,
+				393
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "m-best up"
+		},
+		{
+			"offsets": [
+				67,
+				365
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "m-best left"
+		},
+		{
+			"offsets": [
+				-48,
+				368
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "m-best right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/god",
+	"position": [
+		-150,
+		100
+	],
+	"healthicon": "god",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-150,
+		-510
+	],
+	"sing_duration": 4,
+	"scale": 1.5
+}

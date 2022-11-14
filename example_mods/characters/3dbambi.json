@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-149,
+				250
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Cheater Up"
+		},
+		{
+			"offsets": [
+				-148,
+				219
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "Cheater Idle"
+		},
+		{
+			"offsets": [
+				-101,
+				214
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Cheater Left"
+		},
+		{
+			"offsets": [
+				-130,
+				221
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Cheater Right"
+		},
+		{
+			"offsets": [
+				-183,
+				181
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Cheater Down"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Cheater",
+	"position": [
+		-90,
+		-230
+	],
+	"healthicon": "3d",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		170,
+		40
+	],
+	"camera_position": [
+		90,
+		-110
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

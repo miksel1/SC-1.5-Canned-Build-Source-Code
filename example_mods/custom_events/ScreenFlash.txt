@@ -1,0 +1,4 @@
+Create a flash of any color and duration (100% opacity)
+value1: color: a 6 digit hexadecimal number.
+example: FFFFFF = white
+value2: any integer greater than 1.

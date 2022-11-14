@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Hjoim Idle"
+		},
+		{
+			"offsets": [
+				130,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Hjoim Left"
+		},
+		{
+			"offsets": [
+				40,
+				-60
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Hjoim Down"
+		},
+		{
+			"offsets": [
+				30,
+				50
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Hjoim Up"
+		},
+		{
+			"offsets": [
+				-30,
+				-15
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Hjoim Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Hjoim",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "hjoim",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Bambi_ChillingWithTheCorn.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="rainbowcolor0000" x="0" y="0" width="1500" height="900"/>
+	<SubTexture name="rainbowcolor0001" x="1500" y="5" width="1500" height="895"/>
+	<SubTexture name="rainbowcolor0002" x="0" y="900" width="1500" height="900"/>
+	<SubTexture name="rainbowcolor0003" x="1500" y="900" width="1500" height="900"/>
+	<SubTexture name="rainbowcolor0004" x="0" y="1800" width="1500" height="900"/>
+	<SubTexture name="rainbowcolor0005" x="1500" y="1800" width="1500" height="900"/>
+</TextureAtlas>

@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bambispeak",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "MY PHONE!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bambispeak",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "YOU REALLY DID IT THIS TIME!!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hey I tried to leave but I didnt notice your phone, I did what you asked"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bambispeak",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "YOU ARENT GOING ANYWHERE!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I doubt that, come on bf lets go"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bambispeak",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "NO YOU DONT!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "What the hell??"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bambispeak",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "YOU ARE STAYING HERE!!"
+		}
+	]
+}

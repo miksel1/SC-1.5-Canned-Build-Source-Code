@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Fark_Happy.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Down copy0000" x="0" y="0" width="447" height="388" frameX="0" frameY="0" frameWidth="447" frameHeight="398"/>
+	<SubTexture name="Down copy0001" x="0" y="0" width="447" height="388" frameX="0" frameY="0" frameWidth="447" frameHeight="398"/>
+	<SubTexture name="Down copy0002" x="447" y="0" width="447" height="391" frameX="0" frameY="-2" frameWidth="447" frameHeight="398"/>
+	<SubTexture name="Down copy0003" x="894" y="0" width="445" height="395" frameX="0" frameY="-3" frameWidth="447" frameHeight="398"/>
+	<SubTexture name="Down copy0004" x="894" y="0" width="445" height="395" frameX="0" frameY="-3" frameWidth="447" frameHeight="398"/>
+	<SubTexture name="Down copy0005" x="894" y="0" width="445" height="395" frameX="0" frameY="-3" frameWidth="447" frameHeight="398"/>
+	<SubTexture name="Down copy0006" x="894" y="0" width="445" height="395" frameX="0" frameY="-3" frameWidth="447" frameHeight="398"/>
+	<SubTexture name="Down copy0007" x="894" y="0" width="445" height="395" frameX="0" frameY="-3" frameWidth="447" frameHeight="398"/>
+	<SubTexture name="Down copy0008" x="894" y="0" width="445" height="395" frameX="0" frameY="-3" frameWidth="447" frameHeight="398"/>
+	<SubTexture name="Down copy0009" x="894" y="0" width="445" height="395" frameX="0" frameY="-3" frameWidth="447" frameHeight="398"/>
+	<SubTexture name="Down copy0010" x="894" y="0" width="445" height="395" frameX="0" frameY="-3" frameWidth="447" frameHeight="398"/>
+	<SubTexture name="Down copy0011" x="894" y="0" width="445" height="395" frameX="0" frameY="-3" frameWidth="447" frameHeight="398"/>
+	<SubTexture name="Down copy0012" x="894" y="0" width="445" height="395" frameX="0" frameY="-3" frameWidth="447" frameHeight="398"/>
+	<SubTexture name="Down copy0013" x="894" y="0" width="445" height="395" frameX="0" frameY="-3" frameWidth="447" frameHeight="398"/>
+	<SubTexture name="Down copy0014" x="894" y="0" width="445" height="395" frameX="0" frameY="-3" frameWidth="447" frameHeight="398"/>
+	<SubTexture name="Down copy0015" x="894" y="0" width="445" height="395" frameX="0" frameY="-3" frameWidth="447" frameHeight="398"/>
+	<SubTexture name="Down copy0016" x="894" y="0" width="445" height="395" frameX="0" frameY="-3" frameWidth="447" frameHeight="398"/>
+	<SubTexture name="Down copy0017" x="894" y="0" width="445" height="395" frameX="0" frameY="-3" frameWidth="447" frameHeight="398"/>
+	<SubTexture name="Down copy0018" x="894" y="0" width="445" height="395" frameX="0" frameY="-3" frameWidth="447" frameHeight="398"/>
+	<SubTexture name="Down copy0019" x="894" y="0" width="445" height="395" frameX="0" frameY="-3" frameWidth="447" frameHeight="398"/>
+	<SubTexture name="Down copy0020" x="894" y="0" width="445" height="395" frameX="0" frameY="-3" frameWidth="447" frameHeight="398"/>
+	<SubTexture name="Down copy0021" x="894" y="0" width="445" height="395" frameX="0" frameY="-3" frameWidth="447" frameHeight="398"/>
+	<SubTexture name="Down copy0022" x="894" y="0" width="445" height="395" frameX="0" frameY="-3" frameWidth="447" frameHeight="398"/>
+	<SubTexture name="Down copy0023" x="894" y="0" width="445" height="395" frameX="0" frameY="-3" frameWidth="447" frameHeight="398"/>
+	<SubTexture name="Down copy0024" x="894" y="0" width="445" height="395" frameX="0" frameY="-3" frameWidth="447" frameHeight="398"/>
+	<SubTexture name="Down copy0025" x="894" y="0" width="445" height="395" frameX="0" frameY="-3" frameWidth="447" frameHeight="398"/>
+	<SubTexture name="Idle copy0000" x="1339" y="0" width="355" height="518" frameX="0" frameY="-5" frameWidth="374" frameHeight="526"/>
+	<SubTexture name="Idle copy0001" x="1694" y="0" width="355" height="519" frameX="0" frameY="-5" frameWidth="374" frameHeight="526"/>
+	<SubTexture name="Idle copy0002" x="2049" y="0" width="355" height="519" frameX="-1" frameY="-7" frameWidth="374" frameHeight="526"/>
+	<SubTexture name="Idle copy0003" x="2404" y="0" width="362" height="526" frameX="-8" frameY="0" frameWidth="374" frameHeight="526"/>
+	<SubTexture name="Idle copy0004" x="2766" y="0" width="362" height="525" frameX="-8" frameY="0" frameWidth="374" frameHeight="526"/>
+	<SubTexture name="Idle copy0005" x="3128" y="0" width="362" height="521" frameX="-12" frameY="-4" frameWidth="374" frameHeight="526"/>
+	<SubTexture name="Idle copy0006" x="3128" y="0" width="362" height="521" frameX="-12" frameY="-4" frameWidth="374" frameHeight="526"/>
+	<SubTexture name="Idle copy0007" x="3490" y="0" width="362" height="525" frameX="-8" frameY="0" frameWidth="374" frameHeight="526"/>
+	<SubTexture name="Idle copy0008" x="3490" y="0" width="362" height="525" frameX="-8" frameY="0" frameWidth="374" frameHeight="526"/>
+	<SubTexture name="Idle copy0009" x="3490" y="0" width="362" height="525" frameX="-8" frameY="0" frameWidth="374" frameHeight="526"/>
+	<SubTexture name="Idle copy0010" x="3490" y="0" width="362" height="525" frameX="-8" frameY="0" frameWidth="374" frameHeight="526"/>
+	<SubTexture name="Idle copy0011" x="3490" y="0" width="362" height="525" frameX="-8" frameY="0" frameWidth="374" frameHeight="526"/>
+	<SubTexture name="Idle copy0012" x="3490" y="0" width="362" height="525" frameX="-8" frameY="0" frameWidth="374" frameHeight="526"/>
+	<SubTexture name="Idle copy0013" x="3490" y="0" width="362" height="525" frameX="-8" frameY="0" frameWidth="374" frameHeight="526"/>
+	<SubTexture name="Idle copy0014" x="3490" y="0" width="362" height="525" frameX="-8" frameY="0" frameWidth="374" frameHeight="526"/>
+	<SubTexture name="Idle copy0015" x="3490" y="0" width="362" height="525" frameX="-8" frameY="0" frameWidth="374" frameHeight="526"/>
+	<SubTexture name="Idle copy0016" x="3490" y="0" width="362" height="525" frameX="-8" frameY="0" frameWidth="374" frameHeight="526"/>
+	<SubTexture name="Idle copy0017" x="3490" y="0" width="362" height="525" frameX="-8" frameY="0" frameWidth="374" frameHeight="526"/>
+	<SubTexture name="Idle copy0018" x="3490" y="0" width="362" height="525" frameX="-8" frameY="0" frameWidth="374" frameHeight="526"/>
+	<SubTexture name="Idle copy0019" x="3490" y="0" width="362" height="525" frameX="-8" frameY="0" frameWidth="374" frameHeight="526"/>
+	<SubTexture name="Idle copy0020" x="3490" y="0" width="362" height="525" frameX="-8" frameY="0" frameWidth="374" frameHeight="526"/>
+	<SubTexture name="Idle copy0021" x="3490" y="0" width="362" height="525" frameX="-8" frameY="0" frameWidth="374" frameHeight="526"/>
+	<SubTexture name="Idle copy0022" x="3490" y="0" width="362" height="525" frameX="-8" frameY="0" frameWidth="374" frameHeight="526"/>
+	<SubTexture name="Idle copy0023" x="3490" y="0" width="362" height="525" frameX="-8" frameY="0" frameWidth="374" frameHeight="526"/>
+	<SubTexture name="Idle copy0024" x="3490" y="0" width="362" height="525" frameX="-8" frameY="0" frameWidth="374" frameHeight="526"/>
+	<SubTexture name="Idle copy0025" x="3490" y="0" width="362" height="525" frameX="-8" frameY="0" frameWidth="374" frameHeight="526"/>
+	<SubTexture name="Left0000" x="0" y="526" width="467" height="527" frameX="-9" frameY="0" frameWidth="476" frameHeight="534"/>
+	<SubTexture name="Left0001" x="0" y="526" width="467" height="527" frameX="-9" frameY="0" frameWidth="476" frameHeight="534"/>
+	<SubTexture name="Left0002" x="467" y="526" width="466" height="528" frameX="-8" frameY="-3" frameWidth="476" frameHeight="534"/>
+	<SubTexture name="Left0003" x="933" y="526" width="466" height="530" frameX="-8" frameY="-3" frameWidth="476" frameHeight="534"/>
+	<SubTexture name="Left0004" x="1399" y="526" width="474" height="527" frameX="0" frameY="-7" frameWidth="476" frameHeight="534"/>
+	<SubTexture name="Left0005" x="1399" y="526" width="474" height="527" frameX="0" frameY="-7" frameWidth="476" frameHeight="534"/>
+	<SubTexture name="Left0006" x="1399" y="526" width="474" height="527" frameX="0" frameY="-7" frameWidth="476" frameHeight="534"/>
+	<SubTexture name="Left0007" x="1399" y="526" width="474" height="527" frameX="0" frameY="-7" frameWidth="476" frameHeight="534"/>
+	<SubTexture name="Left0008" x="1399" y="526" width="474" height="527" frameX="0" frameY="-7" frameWidth="476" frameHeight="534"/>
+	<SubTexture name="Left0009" x="1399" y="526" width="474" height="527" frameX="0" frameY="-7" frameWidth="476" frameHeight="534"/>
+	<SubTexture name="Left0010" x="1399" y="526" width="474" height="527" frameX="0" frameY="-7" frameWidth="476" frameHeight="534"/>
+	<SubTexture name="Left0011" x="1399" y="526" width="474" height="527" frameX="0" frameY="-7" frameWidth="476" frameHeight="534"/>
+	<SubTexture name="Left0012" x="1399" y="526" width="474" height="527" frameX="0" frameY="-7" frameWidth="476" frameHeight="534"/>
+	<SubTexture name="Left0013" x="1399" y="526" width="474" height="527" frameX="0" frameY="-7" frameWidth="476" frameHeight="534"/>
+	<SubTexture name="Left0014" x="1399" y="526" width="474" height="527" frameX="0" frameY="-7" frameWidth="476" frameHeight="534"/>
+	<SubTexture name="Left0015" x="1399" y="526" width="474" height="527" frameX="0" frameY="-7" frameWidth="476" frameHeight="534"/>
+	<SubTexture name="Left0016" x="1399" y="526" width="474" height="527" frameX="0" frameY="-7" frameWidth="476" frameHeight="534"/>
+	<SubTexture name="Left0017" x="1399" y="526" width="474" height="527" frameX="0" frameY="-7" frameWidth="476" frameHeight="534"/>
+	<SubTexture name="Left0018" x="1399" y="526" width="474" height="527" frameX="0" frameY="-7" frameWidth="476" frameHeight="534"/>
+	<SubTexture name="Left0019" x="1399" y="526" width="474" height="527" frameX="0" frameY="-7" frameWidth="476" frameHeight="534"/>
+	<SubTexture name="Left0020" x="1399" y="526" width="474" height="527" frameX="0" frameY="-7" frameWidth="476" frameHeight="534"/>
+	<SubTexture name="Left0021" x="1399" y="526" width="474" height="527" frameX="0" frameY="-7" frameWidth="476" frameHeight="534"/>
+	<SubTexture name="Left0022" x="1399" y="526" width="474" height="527" frameX="0" frameY="-7" frameWidth="476" frameHeight="534"/>
+	<SubTexture name="Left0023" x="1399" y="526" width="474" height="527" frameX="0" frameY="-7" frameWidth="476" frameHeight="534"/>
+	<SubTexture name="Left0024" x="1399" y="526" width="474" height="527" frameX="0" frameY="-7" frameWidth="476" frameHeight="534"/>
+	<SubTexture name="Left0025" x="1399" y="526" width="474" height="527" frameX="0" frameY="-7" frameWidth="476" frameHeight="534"/>
+	<SubTexture name="Right copy0000" x="1873" y="526" width="430" height="552" frameX="0" frameY="-5" frameWidth="439" frameHeight="557"/>
+	<SubTexture name="Right copy0001" x="2303" y="526" width="427" height="552" frameX="-3" frameY="-5" frameWidth="439" frameHeight="557"/>
+	<SubTexture name="Right copy0002" x="2730" y="526" width="405" height="555" frameX="-29" frameY="0" frameWidth="439" frameHeight="557"/>
+	<SubTexture name="Right copy0003" x="3135" y="526" width="407" height="555" frameX="-29" frameY="0" frameWidth="439" frameHeight="557"/>
+	<SubTexture name="Right copy0004" x="3542" y="526" width="410" height="550" frameX="-29" frameY="-5" frameWidth="439" frameHeight="557"/>
+	<SubTexture name="Right copy0005" x="3542" y="526" width="410" height="550" frameX="-29" frameY="-5" frameWidth="439" frameHeight="557"/>
+	<SubTexture name="Right copy0006" x="0" y="1081" width="405" height="550" frameX="-29" frameY="-5" frameWidth="439" frameHeight="557"/>
+	<SubTexture name="Right copy0007" x="0" y="1081" width="405" height="550" frameX="-29" frameY="-5" frameWidth="439" frameHeight="557"/>
+	<SubTexture name="Right copy0008" x="0" y="1081" width="405" height="550" frameX="-29" frameY="-5" frameWidth="439" frameHeight="557"/>
+	<SubTexture name="Right copy0009" x="0" y="1081" width="405" height="550" frameX="-29" frameY="-5" frameWidth="439" frameHeight="557"/>
+	<SubTexture name="Right copy0010" x="0" y="1081" width="405" height="550" frameX="-29" frameY="-5" frameWidth="439" frameHeight="557"/>
+	<SubTexture name="Right copy0011" x="0" y="1081" width="405" height="550" frameX="-29" frameY="-5" frameWidth="439" frameHeight="557"/>
+	<SubTexture name="Right copy0012" x="0" y="1081" width="405" height="550" frameX="-29" frameY="-5" frameWidth="439" frameHeight="557"/>
+	<SubTexture name="Right copy0013" x="0" y="1081" width="405" height="550" frameX="-29" frameY="-5" frameWidth="439" frameHeight="557"/>
+	<SubTexture name="Right copy0014" x="0" y="1081" width="405" height="550" frameX="-29" frameY="-5" frameWidth="439" frameHeight="557"/>
+	<SubTexture name="Right copy0015" x="0" y="1081" width="405" height="550" frameX="-29" frameY="-5" frameWidth="439" frameHeight="557"/>
+	<SubTexture name="Right copy0016" x="0" y="1081" width="405" height="550" frameX="-29" frameY="-5" frameWidth="439" frameHeight="557"/>
+	<SubTexture name="Right copy0017" x="0" y="1081" width="405" height="550" frameX="-29" frameY="-5" frameWidth="439" frameHeight="557"/>
+	<SubTexture name="Right copy0018" x="0" y="1081" width="405" height="550" frameX="-29" frameY="-5" frameWidth="439" frameHeight="557"/>
+	<SubTexture name="Right copy0019" x="0" y="1081" width="405" height="550" frameX="-29" frameY="-5" frameWidth="439" frameHeight="557"/>
+	<SubTexture name="Right copy0020" x="0" y="1081" width="405" height="550" frameX="-29" frameY="-5" frameWidth="439" frameHeight="557"/>
+	<SubTexture name="Right copy0021" x="0" y="1081" width="405" height="550" frameX="-29" frameY="-5" frameWidth="439" frameHeight="557"/>
+	<SubTexture name="Right copy0022" x="0" y="1081" width="405" height="550" frameX="-29" frameY="-5" frameWidth="439" frameHeight="557"/>
+	<SubTexture name="Right copy0023" x="0" y="1081" width="405" height="550" frameX="-29" frameY="-5" frameWidth="439" frameHeight="557"/>
+	<SubTexture name="Right copy0024" x="0" y="1081" width="405" height="550" frameX="-29" frameY="-5" frameWidth="439" frameHeight="557"/>
+	<SubTexture name="Right copy0025" x="0" y="1081" width="405" height="550" frameX="-29" frameY="-5" frameWidth="439" frameHeight="557"/>
+	<SubTexture name="Up copy0000" x="405" y="1081" width="380" height="563" frameX="0" frameY="-6" frameWidth="380" frameHeight="569"/>
+	<SubTexture name="Up copy0001" x="785" y="1081" width="380" height="559" frameX="0" frameY="-6" frameWidth="380" frameHeight="569"/>
+	<SubTexture name="Up copy0002" x="1165" y="1081" width="380" height="561" frameX="0" frameY="-4" frameWidth="380" frameHeight="569"/>
+	<SubTexture name="Up copy0003" x="1545" y="1081" width="379" height="565" frameX="0" frameY="0" frameWidth="380" frameHeight="569"/>
+	<SubTexture name="Up copy0004" x="1545" y="1081" width="379" height="565" frameX="0" frameY="0" frameWidth="380" frameHeight="569"/>
+	<SubTexture name="Up copy0005" x="1545" y="1081" width="379" height="565" frameX="0" frameY="0" frameWidth="380" frameHeight="569"/>
+	<SubTexture name="Up copy0006" x="1545" y="1081" width="379" height="565" frameX="0" frameY="0" frameWidth="380" frameHeight="569"/>
+	<SubTexture name="Up copy0007" x="1545" y="1081" width="379" height="565" frameX="0" frameY="0" frameWidth="380" frameHeight="569"/>
+	<SubTexture name="Up copy0008" x="1545" y="1081" width="379" height="565" frameX="0" frameY="0" frameWidth="380" frameHeight="569"/>
+	<SubTexture name="Up copy0009" x="1545" y="1081" width="379" height="565" frameX="0" frameY="0" frameWidth="380" frameHeight="569"/>
+	<SubTexture name="Up copy0010" x="1545" y="1081" width="379" height="565" frameX="0" frameY="0" frameWidth="380" frameHeight="569"/>
+	<SubTexture name="Up copy0011" x="1545" y="1081" width="379" height="565" frameX="0" frameY="0" frameWidth="380" frameHeight="569"/>
+	<SubTexture name="Up copy0012" x="1545" y="1081" width="379" height="565" frameX="0" frameY="0" frameWidth="380" frameHeight="569"/>
+	<SubTexture name="Up copy0013" x="1545" y="1081" width="379" height="565" frameX="0" frameY="0" frameWidth="380" frameHeight="569"/>
+	<SubTexture name="Up copy0014" x="1545" y="1081" width="379" height="565" frameX="0" frameY="0" frameWidth="380" frameHeight="569"/>
+	<SubTexture name="Up copy0015" x="1545" y="1081" width="379" height="565" frameX="0" frameY="0" frameWidth="380" frameHeight="569"/>
+	<SubTexture name="Up copy0016" x="1545" y="1081" width="379" height="565" frameX="0" frameY="0" frameWidth="380" frameHeight="569"/>
+	<SubTexture name="Up copy0017" x="1545" y="1081" width="379" height="565" frameX="0" frameY="0" frameWidth="380" frameHeight="569"/>
+	<SubTexture name="Up copy0018" x="1545" y="1081" width="379" height="565" frameX="0" frameY="0" frameWidth="380" frameHeight="569"/>
+	<SubTexture name="Up copy0019" x="1545" y="1081" width="379" height="565" frameX="0" frameY="0" frameWidth="380" frameHeight="569"/>
+	<SubTexture name="Up copy0020" x="1545" y="1081" width="379" height="565" frameX="0" frameY="0" frameWidth="380" frameHeight="569"/>
+	<SubTexture name="Up copy0021" x="1545" y="1081" width="379" height="565" frameX="0" frameY="0" frameWidth="380" frameHeight="569"/>
+	<SubTexture name="Up copy0022" x="1545" y="1081" width="379" height="565" frameX="0" frameY="0" frameWidth="380" frameHeight="569"/>
+	<SubTexture name="Up copy0023" x="1545" y="1081" width="379" height="565" frameX="0" frameY="0" frameWidth="380" frameHeight="569"/>
+	<SubTexture name="Up copy0024" x="1545" y="1081" width="379" height="565" frameX="0" frameY="0" frameWidth="380" frameHeight="569"/>
+	<SubTexture name="Up copy0025" x="1545" y="1081" width="379" height="565" frameX="0" frameY="0" frameWidth="380" frameHeight="569"/>
+</TextureAtlas>

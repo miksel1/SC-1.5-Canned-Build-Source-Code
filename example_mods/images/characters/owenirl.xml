@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="owenirl.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="owendown0000" x="0" y="0" width="340" height="467"/>
+	<SubTexture name="owendown0001" x="0" y="0" width="340" height="467"/>
+	<SubTexture name="owendown0002" x="340" y="0" width="340" height="467"/>
+	<SubTexture name="owendown0003" x="340" y="0" width="340" height="467"/>
+	<SubTexture name="owendown0004" x="680" y="0" width="340" height="467"/>
+	<SubTexture name="owendown0005" x="680" y="0" width="340" height="467"/>
+	<SubTexture name="owendown0006" x="680" y="0" width="340" height="467"/>
+	<SubTexture name="owendown0007" x="680" y="0" width="340" height="467"/>
+	<SubTexture name="owendown0008" x="680" y="0" width="340" height="467"/>
+	<SubTexture name="owendown0009" x="680" y="0" width="340" height="467"/>
+	<SubTexture name="owenidle0000" x="1020" y="0" width="311" height="530"/>
+	<SubTexture name="owenidle0001" x="1020" y="0" width="311" height="530"/>
+	<SubTexture name="owenidle0002" x="1331" y="0" width="311" height="530"/>
+	<SubTexture name="owenidle0003" x="1331" y="0" width="311" height="530"/>
+	<SubTexture name="owenidle0004" x="1642" y="0" width="311" height="530"/>
+	<SubTexture name="owenidle0005" x="1642" y="0" width="311" height="530"/>
+	<SubTexture name="owenidle0006" x="0" y="530" width="311" height="530"/>
+	<SubTexture name="owenidle0007" x="0" y="530" width="311" height="530"/>
+	<SubTexture name="owenidle0008" x="311" y="530" width="311" height="530"/>
+	<SubTexture name="owenidle0009" x="311" y="530" width="311" height="530"/>
+	<SubTexture name="owenleft0000" x="622" y="530" width="334" height="526"/>
+	<SubTexture name="owenleft0001" x="622" y="530" width="334" height="526"/>
+	<SubTexture name="owenleft0002" x="956" y="530" width="334" height="526"/>
+	<SubTexture name="owenleft0003" x="956" y="530" width="334" height="526"/>
+	<SubTexture name="owenleft0004" x="1290" y="530" width="334" height="526"/>
+	<SubTexture name="owenleft0005" x="1290" y="530" width="334" height="526"/>
+	<SubTexture name="owenleft0006" x="1290" y="530" width="334" height="526"/>
+	<SubTexture name="owenleft0007" x="1290" y="530" width="334" height="526"/>
+	<SubTexture name="owenleft0008" x="1290" y="530" width="334" height="526"/>
+	<SubTexture name="owenleft0009" x="1290" y="530" width="334" height="526"/>
+	<SubTexture name="owenright0000" x="1624" y="530" width="342" height="534"/>
+	<SubTexture name="owenright0001" x="1624" y="530" width="342" height="534"/>
+	<SubTexture name="owenright0002" x="0" y="1064" width="342" height="534"/>
+	<SubTexture name="owenright0003" x="0" y="1064" width="342" height="534"/>
+	<SubTexture name="owenright0004" x="342" y="1064" width="342" height="534"/>
+	<SubTexture name="owenright0005" x="342" y="1064" width="342" height="534"/>
+	<SubTexture name="owenright0006" x="342" y="1064" width="342" height="534"/>
+	<SubTexture name="owenright0007" x="342" y="1064" width="342" height="534"/>
+	<SubTexture name="owenright0008" x="342" y="1064" width="342" height="534"/>
+	<SubTexture name="owenright0009" x="342" y="1064" width="342" height="534"/>
+	<SubTexture name="owenup0000" x="684" y="1064" width="305" height="559"/>
+	<SubTexture name="owenup0001" x="684" y="1064" width="305" height="559"/>
+	<SubTexture name="owenup0002" x="989" y="1064" width="305" height="559"/>
+	<SubTexture name="owenup0003" x="989" y="1064" width="305" height="559"/>
+	<SubTexture name="owenup0004" x="1294" y="1064" width="305" height="559"/>
+	<SubTexture name="owenup0005" x="1294" y="1064" width="305" height="559"/>
+	<SubTexture name="owenup0006" x="1294" y="1064" width="305" height="559"/>
+	<SubTexture name="owenup0007" x="1294" y="1064" width="305" height="559"/>
+	<SubTexture name="owenup0008" x="1294" y="1064" width="305" height="559"/>
+	<SubTexture name="owenup0009" x="1294" y="1064" width="305" height="559"/>
+</TextureAtlas>

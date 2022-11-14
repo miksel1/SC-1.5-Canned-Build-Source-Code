@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="MetaverseDude.png">
+<SubTexture name="MetaverseDude idle0000" x="0" y="0" width="794" height="916" frameX="-178" frameY="-143" frameWidth="1200" frameHeight="1200" />
+<SubTexture name="MetaverseDude idle0001" x="831" y="1820" width="858" height="857" frameX="-174" frameY="-220" frameWidth="1200" frameHeight="1200" />
+<SubTexture name="MetaverseDude idle0002" x="0" y="1820" width="831" height="888" frameX="-167" frameY="-182" frameWidth="1200" frameHeight="1200" />
+<SubTexture name="MetaverseDude idle0003" x="0" y="916" width="832" height="904" frameX="-172" frameY="-158" frameWidth="1200" frameHeight="1200" />
+<SubTexture name="MetaverseDude idle0004" x="832" y="916" width="827" height="904" frameX="-178" frameY="-145" frameWidth="1200" frameHeight="1200" />
+<SubTexture name="MetaverseDude idle0005" x="794" y="0" width="817" height="916" frameX="-178" frameY="-139" frameWidth="1200" frameHeight="1200" />
+<SubTexture name="MetaverseDude left0000" x="3072" y="771" width="881" height="759" frameX="-79" frameY="-223" frameWidth="1200" frameHeight="1200" />
+<SubTexture name="MetaverseDude left0001" x="3072" y="0" width="894" height="771" frameX="-84" frameY="-206" frameWidth="1200" frameHeight="1200" />
+<SubTexture name="MetaverseDude left0002" x="1689" y="1820" width="891" height="786" frameX="-87" frameY="-185" frameWidth="1200" frameHeight="1200" />
+<SubTexture name="MetaverseDude down0000" x="0" y="2708" width="725" height="679" frameX="-266" frameY="-393" frameWidth="1200" frameHeight="1200" />
+<SubTexture name="MetaverseDude down0001" x="3966" y="0" width="727" height="618" frameX="-256" frameY="-428" frameWidth="1200" frameHeight="1200" />
+<SubTexture name="MetaverseDude down0002" x="3072" y="1530" width="726" height="724" frameX="-262" frameY="-335" frameWidth="1200" frameHeight="1200" />
+<SubTexture name="MetaverseDude right0000" x="1719" y="2708" width="967" height="668" frameX="-184" frameY="-309" frameWidth="1200" frameHeight="1200" />
+<SubTexture name="MetaverseDude right0001" x="725" y="2708" width="994" height="669" frameX="-165" frameY="-290" frameWidth="1200" frameHeight="1200" />
+<SubTexture name="MetaverseDude right0002" x="2686" y="2708" width="1007" height="664" frameX="-156" frameY="-281" frameWidth="1200" frameHeight="1200" />
+<SubTexture name="MetaverseDude up0000" x="2322" y="0" width="750" height="904" frameX="-160" frameY="-31" frameWidth="1200" frameHeight="1200" />
+<SubTexture name="MetaverseDude up0001" x="2322" y="904" width="750" height="903" frameX="-157" frameY="-23" frameWidth="1200" frameHeight="1200" />
+<SubTexture name="MetaverseDude up0002" x="1611" y="0" width="711" height="916" frameX="-190" frameY="-16" frameWidth="1200" frameHeight="1200" />
+</TextureAtlas>

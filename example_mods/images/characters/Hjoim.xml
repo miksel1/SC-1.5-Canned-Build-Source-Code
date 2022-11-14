@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Hjoim.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Hjoim Down0000" x="20" y="20" width="475" height="523" frameX="0" frameY="-10" frameWidth="475" frameHeight="546"/>
+	<SubTexture name="Hjoim Down0001" x="20" y="20" width="475" height="523" frameX="0" frameY="-10" frameWidth="475" frameHeight="546"/>
+	<SubTexture name="Hjoim Down0002" x="515" y="20" width="459" height="546" frameX="-10" frameY="0" frameWidth="475" frameHeight="546"/>
+	<SubTexture name="Hjoim Down0003" x="515" y="20" width="459" height="546" frameX="-10" frameY="0" frameWidth="475" frameHeight="546"/>
+	<SubTexture name="Hjoim Down0004" x="515" y="20" width="459" height="546" frameX="-10" frameY="0" frameWidth="475" frameHeight="546"/>
+	<SubTexture name="Hjoim Down0005" x="515" y="20" width="459" height="546" frameX="-10" frameY="0" frameWidth="475" frameHeight="546"/>
+	<SubTexture name="Hjoim Down0006" x="515" y="20" width="459" height="546" frameX="-10" frameY="0" frameWidth="475" frameHeight="546"/>
+	<SubTexture name="Hjoim Down0007" x="515" y="20" width="459" height="546" frameX="-10" frameY="0" frameWidth="475" frameHeight="546"/>
+	<SubTexture name="Hjoim Down0008" x="515" y="20" width="459" height="546" frameX="-10" frameY="0" frameWidth="475" frameHeight="546"/>
+	<SubTexture name="Hjoim Down0009" x="515" y="20" width="459" height="546" frameX="-10" frameY="0" frameWidth="475" frameHeight="546"/>
+	<SubTexture name="Hjoim Down0010" x="515" y="20" width="459" height="546" frameX="-10" frameY="0" frameWidth="475" frameHeight="546"/>
+	<SubTexture name="Hjoim Down0011" x="515" y="20" width="459" height="546" frameX="-10" frameY="0" frameWidth="475" frameHeight="546"/>
+	<SubTexture name="Hjoim Down0012" x="515" y="20" width="459" height="546" frameX="-10" frameY="0" frameWidth="475" frameHeight="546"/>
+	<SubTexture name="Hjoim Down0013" x="515" y="20" width="459" height="546" frameX="-10" frameY="0" frameWidth="475" frameHeight="546"/>
+	<SubTexture name="Hjoim Idle0000" x="994" y="20" width="339" height="634" frameX="0" frameY="-11" frameWidth="340" frameHeight="645"/>
+	<SubTexture name="Hjoim Idle0001" x="994" y="20" width="339" height="634" frameX="0" frameY="-11" frameWidth="340" frameHeight="645"/>
+	<SubTexture name="Hjoim Idle0002" x="1353" y="20" width="340" height="642" frameX="0" frameY="-3" frameWidth="340" frameHeight="645"/>
+	<SubTexture name="Hjoim Idle0003" x="1353" y="20" width="340" height="642" frameX="0" frameY="-3" frameWidth="340" frameHeight="645"/>
+	<SubTexture name="Hjoim Idle0004" x="20" y="682" width="340" height="642" frameX="0" frameY="0" frameWidth="340" frameHeight="645"/>
+	<SubTexture name="Hjoim Idle0005" x="20" y="682" width="340" height="642" frameX="0" frameY="0" frameWidth="340" frameHeight="645"/>
+	<SubTexture name="Hjoim Idle0006" x="20" y="682" width="340" height="642" frameX="0" frameY="0" frameWidth="340" frameHeight="645"/>
+	<SubTexture name="Hjoim Idle0007" x="20" y="682" width="340" height="642" frameX="0" frameY="0" frameWidth="340" frameHeight="645"/>
+	<SubTexture name="Hjoim Idle0008" x="20" y="682" width="340" height="642" frameX="0" frameY="0" frameWidth="340" frameHeight="645"/>
+	<SubTexture name="Hjoim Idle0009" x="20" y="682" width="340" height="642" frameX="0" frameY="0" frameWidth="340" frameHeight="645"/>
+	<SubTexture name="Hjoim Idle0010" x="20" y="682" width="340" height="642" frameX="0" frameY="0" frameWidth="340" frameHeight="645"/>
+	<SubTexture name="Hjoim Idle0011" x="20" y="682" width="340" height="642" frameX="0" frameY="0" frameWidth="340" frameHeight="645"/>
+	<SubTexture name="Hjoim Idle0012" x="20" y="682" width="340" height="642" frameX="0" frameY="0" frameWidth="340" frameHeight="645"/>
+	<SubTexture name="Hjoim Idle0013" x="20" y="682" width="340" height="642" frameX="0" frameY="0" frameWidth="340" frameHeight="645"/>
+	<SubTexture name="Hjoim Left0000" x="380" y="682" width="564" height="645"/>
+	<SubTexture name="Hjoim Left0001" x="380" y="682" width="564" height="645"/>
+	<SubTexture name="Hjoim Left0002" x="964" y="682" width="536" height="644" frameX="-10" frameY="0" frameWidth="564" frameHeight="645"/>
+	<SubTexture name="Hjoim Left0003" x="964" y="682" width="536" height="644" frameX="-10" frameY="0" frameWidth="564" frameHeight="645"/>
+	<SubTexture name="Hjoim Left0004" x="964" y="682" width="536" height="644" frameX="-10" frameY="0" frameWidth="564" frameHeight="645"/>
+	<SubTexture name="Hjoim Left0005" x="964" y="682" width="536" height="644" frameX="-10" frameY="0" frameWidth="564" frameHeight="645"/>
+	<SubTexture name="Hjoim Left0006" x="964" y="682" width="536" height="644" frameX="-10" frameY="0" frameWidth="564" frameHeight="645"/>
+	<SubTexture name="Hjoim Left0007" x="964" y="682" width="536" height="644" frameX="-10" frameY="0" frameWidth="564" frameHeight="645"/>
+	<SubTexture name="Hjoim Left0008" x="964" y="682" width="536" height="644" frameX="-10" frameY="0" frameWidth="564" frameHeight="645"/>
+	<SubTexture name="Hjoim Left0009" x="964" y="682" width="536" height="644" frameX="-10" frameY="0" frameWidth="564" frameHeight="645"/>
+	<SubTexture name="Hjoim Left0010" x="964" y="682" width="536" height="644" frameX="-10" frameY="0" frameWidth="564" frameHeight="645"/>
+	<SubTexture name="Hjoim Left0011" x="964" y="682" width="536" height="644" frameX="-10" frameY="0" frameWidth="564" frameHeight="645"/>
+	<SubTexture name="Hjoim Left0012" x="964" y="682" width="536" height="644" frameX="-10" frameY="0" frameWidth="564" frameHeight="645"/>
+	<SubTexture name="Hjoim Left0013" x="964" y="682" width="536" height="644" frameX="-10" frameY="0" frameWidth="564" frameHeight="645"/>
+	<SubTexture name="Hjoim Right0000" x="1520" y="682" width="507" height="572"/>
+	<SubTexture name="Hjoim Right0001" x="1520" y="682" width="507" height="572"/>
+	<SubTexture name="Hjoim Right0002" x="20" y="1347" width="476" height="560" frameX="-10" frameY="0" frameWidth="507" frameHeight="572"/>
+	<SubTexture name="Hjoim Right0003" x="20" y="1347" width="476" height="560" frameX="-10" frameY="0" frameWidth="507" frameHeight="572"/>
+	<SubTexture name="Hjoim Right0004" x="20" y="1347" width="476" height="560" frameX="-10" frameY="0" frameWidth="507" frameHeight="572"/>
+	<SubTexture name="Hjoim Right0005" x="20" y="1347" width="476" height="560" frameX="-10" frameY="0" frameWidth="507" frameHeight="572"/>
+	<SubTexture name="Hjoim Right0006" x="20" y="1347" width="476" height="560" frameX="-10" frameY="0" frameWidth="507" frameHeight="572"/>
+	<SubTexture name="Hjoim Right0007" x="20" y="1347" width="476" height="560" frameX="-10" frameY="0" frameWidth="507" frameHeight="572"/>
+	<SubTexture name="Hjoim Right0008" x="20" y="1347" width="476" height="560" frameX="-10" frameY="0" frameWidth="507" frameHeight="572"/>
+	<SubTexture name="Hjoim Right0009" x="20" y="1347" width="476" height="560" frameX="-10" frameY="0" frameWidth="507" frameHeight="572"/>
+	<SubTexture name="Hjoim Right0010" x="20" y="1347" width="476" height="560" frameX="-10" frameY="0" frameWidth="507" frameHeight="572"/>
+	<SubTexture name="Hjoim Right0011" x="20" y="1347" width="476" height="560" frameX="-10" frameY="0" frameWidth="507" frameHeight="572"/>
+	<SubTexture name="Hjoim Right0012" x="20" y="1347" width="476" height="560" frameX="-10" frameY="0" frameWidth="507" frameHeight="572"/>
+	<SubTexture name="Hjoim Right0013" x="20" y="1347" width="476" height="560" frameX="-10" frameY="0" frameWidth="507" frameHeight="572"/>
+	<SubTexture name="Hjoim Up0000" x="516" y="1347" width="426" height="555" frameX="0" frameY="-20" frameWidth="429" frameHeight="588"/>
+	<SubTexture name="Hjoim Up0001" x="516" y="1347" width="426" height="555" frameX="0" frameY="-20" frameWidth="429" frameHeight="588"/>
+	<SubTexture name="Hjoim Up0002" x="962" y="1347" width="409" height="588" frameX="-20" frameY="0" frameWidth="429" frameHeight="588"/>
+	<SubTexture name="Hjoim Up0003" x="962" y="1347" width="409" height="588" frameX="-20" frameY="0" frameWidth="429" frameHeight="588"/>
+	<SubTexture name="Hjoim Up0004" x="962" y="1347" width="409" height="588" frameX="-20" frameY="0" frameWidth="429" frameHeight="588"/>
+	<SubTexture name="Hjoim Up0005" x="962" y="1347" width="409" height="588" frameX="-20" frameY="0" frameWidth="429" frameHeight="588"/>
+	<SubTexture name="Hjoim Up0006" x="962" y="1347" width="409" height="588" frameX="-20" frameY="0" frameWidth="429" frameHeight="588"/>
+	<SubTexture name="Hjoim Up0007" x="962" y="1347" width="409" height="588" frameX="-20" frameY="0" frameWidth="429" frameHeight="588"/>
+	<SubTexture name="Hjoim Up0008" x="962" y="1347" width="409" height="588" frameX="-20" frameY="0" frameWidth="429" frameHeight="588"/>
+	<SubTexture name="Hjoim Up0009" x="962" y="1347" width="409" height="588" frameX="-20" frameY="0" frameWidth="429" frameHeight="588"/>
+	<SubTexture name="Hjoim Up0010" x="962" y="1347" width="409" height="588" frameX="-20" frameY="0" frameWidth="429" frameHeight="588"/>
+	<SubTexture name="Hjoim Up0011" x="962" y="1347" width="409" height="588" frameX="-20" frameY="0" frameWidth="429" frameHeight="588"/>
+	<SubTexture name="Hjoim Up0012" x="962" y="1347" width="409" height="588" frameX="-20" frameY="0" frameWidth="429" frameHeight="588"/>
+	<SubTexture name="Hjoim Up0013" x="962" y="1347" width="409" height="588" frameX="-20" frameY="0" frameWidth="429" frameHeight="588"/>
+</TextureAtlas>

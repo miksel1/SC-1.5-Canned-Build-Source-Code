@@ -1,0 +1,57 @@
+{
+	"storyName": "The Burning Farm",
+	"hideFreeplay": false,
+	"weekBackground": "hellfarm",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Reality-Breaking",
+			"angrymarelo",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Dismember",
+			"angrymarelo",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Endeavour",
+			"garcello",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Tenacity",
+			"garcello",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "The Burning Farm"
+}

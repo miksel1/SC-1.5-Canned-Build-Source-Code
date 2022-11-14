@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="diambi.png"><SubTexture name="diambi down0000" x="1109" y="1929" width="588" height="553" frameX="-300" frameY="-282" frameWidth="1036" frameHeight="941" />
+<SubTexture name="diambi down0001" x="1945" y="586" width="647" height="584" frameX="-287" frameY="-289" frameWidth="1036" frameHeight="941" />
+<SubTexture name="diambi down0002" x="602" y="1327" width="664" height="597" frameX="-314" frameY="-301" frameWidth="1036" frameHeight="941" />
+<SubTexture name="diambi down0003" x="1945" y="586" width="647" height="584" frameX="-287" frameY="-289" frameWidth="1036" frameHeight="941" />
+<SubTexture name="diambi down0004" x="1109" y="1929" width="588" height="553" frameX="-300" frameY="-282" frameWidth="1036" frameHeight="941" />
+<SubTexture name="diambi idle0000" x="1266" y="1327" width="440" height="586" frameX="-287" frameY="-176" frameWidth="1036" frameHeight="941" />
+<SubTexture name="diambi idle0001" x="1370" y="604" width="476" height="593" frameX="-320" frameY="-211" frameWidth="1036" frameHeight="941" />
+<SubTexture name="diambi idle0002" x="0" y="1929" width="430" height="565" frameX="-407" frameY="-274" frameWidth="1036" frameHeight="941" />
+<SubTexture name="diambi idle0003" x="1697" y="1929" width="448" height="511" frameX="-415" frameY="-336" frameWidth="1036" frameHeight="941" />
+<SubTexture name="diambi idle0004" x="0" y="1929" width="430" height="565" frameX="-407" frameY="-274" frameWidth="1036" frameHeight="941" />
+<SubTexture name="diambi idle0005" x="1370" y="604" width="476" height="593" frameX="-320" frameY="-211" frameWidth="1036" frameHeight="941" />
+<SubTexture name="diambi idle0006" x="1266" y="1327" width="440" height="586" frameX="-287" frameY="-176" frameWidth="1036" frameHeight="941" />
+<SubTexture name="diambi left0000" x="599" y="692" width="544" height="619" frameX="-201" frameY="-166" frameWidth="1036" frameHeight="941" />
+<SubTexture name="diambi left0001" x="1370" y="0" width="575" height="604" frameX="-125" frameY="-177" frameWidth="1036" frameHeight="941" />
+<SubTexture name="diambi left0002" x="0" y="1327" width="602" height="602" frameX="-60" frameY="-191" frameWidth="1036" frameHeight="941" />
+<SubTexture name="diambi left0003" x="1370" y="0" width="575" height="604" frameX="-125" frameY="-177" frameWidth="1036" frameHeight="941" />
+<SubTexture name="diambi left0004" x="599" y="692" width="544" height="619" frameX="-201" frameY="-166" frameWidth="1036" frameHeight="941" />
+<SubTexture name="diambi right0000" x="1945" y="1170" width="577" height="583" frameX="-311" frameY="-157" frameWidth="1036" frameHeight="941" />
+<SubTexture name="diambi right0001" x="430" y="1929" width="679" height="561" frameX="-293" frameY="-176" frameWidth="1036" frameHeight="941" />
+<SubTexture name="diambi right0002" x="1945" y="0" width="739" height="586" frameX="-297" frameY="-142" frameWidth="1036" frameHeight="941" />
+<SubTexture name="diambi right0003" x="430" y="1929" width="679" height="561" frameX="-293" frameY="-176" frameWidth="1036" frameHeight="941" />
+<SubTexture name="diambi right0004" x="1945" y="1170" width="577" height="583" frameX="-311" frameY="-157" frameWidth="1036" frameHeight="941" />
+<SubTexture name="diambi up0000" x="0" y="692" width="599" height="635" frameX="-159" frameY="-126" frameWidth="1036" frameHeight="941" />
+<SubTexture name="diambi up0001" x="705" y="0" width="665" height="677" frameX="-100" frameY="-93" frameWidth="1036" frameHeight="941" />
+<SubTexture name="diambi up0002" x="0" y="0" width="705" height="692" frameX="-62" frameY="-60" frameWidth="1036" frameHeight="941" />
+<SubTexture name="diambi up0003" x="705" y="0" width="665" height="677" frameX="-100" frameY="-93" frameWidth="1036" frameHeight="941" />
+<SubTexture name="diambi up0004" x="0" y="692" width="599" height="635" frameX="-159" frameY="-126" frameWidth="1036" frameHeight="941" />
+</TextureAtlas>

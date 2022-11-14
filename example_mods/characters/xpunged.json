@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-168,
+				-195
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Xpunged Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				69,
+				-145
+			],
+			"anim": "singLEFT",
+			"fps": 45,
+			"name": "Xpunged Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-114,
+				-185
+			],
+			"anim": "singRIGHT",
+			"fps": 35,
+			"name": "Xpunged Right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-180,
+				-170
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Xpunged Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				-178
+			],
+			"anim": "singDOWN",
+			"fps": 30,
+			"name": "Xpunged Down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ExpungeFestive_Boy",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "xmaspunged",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		60
+	],
+	"camera_position": [
+		40,
+		80
+	],
+	"sing_duration": 4,
+	"scale": 1.3
+}

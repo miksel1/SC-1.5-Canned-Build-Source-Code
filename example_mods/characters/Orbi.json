@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				380
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [],
+			"name": "OrbiIdleL"
+		},
+		{
+			"offsets": [
+				-52,
+				389
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [],
+			"name": "OrbiIdleR"
+		},
+		{
+			"offsets": [
+				177,
+				277
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "OrbiLeft"
+		},
+		{
+			"offsets": [
+				-263,
+				285
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "OrbiRight"
+		},
+		{
+			"offsets": [
+				14,
+				401
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "OrbiUp"
+		},
+		{
+			"offsets": [
+				-215,
+				110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "OrbiDown"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/orbi",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "orbi",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-240,
+		-430
+	],
+	"sing_duration": 4,
+	"scale": 1.7
+}

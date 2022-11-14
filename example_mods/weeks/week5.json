@@ -1,0 +1,30 @@
+{
+	"storyName": "???",
+	"hideFreeplay": false,
+	"weekBackground": "him",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week4",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Pessimistic",
+			"hellbreaker",
+			[
+				40,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "hell"
+}

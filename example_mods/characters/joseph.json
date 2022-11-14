@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				772,
+				435
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				586,
+				415
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				670,
+				332
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				612,
+				555
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				770,
+				490
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/JOSEPH",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "joeseph",
+	"flip_x": false,
+	"healthbar_colors": [
+		235,
+		0,
+		60
+	],
+	"camera_position": [
+		-780,
+		-180
+	],
+	"sing_duration": 4,
+	"scale": 0.999999999999999
+}

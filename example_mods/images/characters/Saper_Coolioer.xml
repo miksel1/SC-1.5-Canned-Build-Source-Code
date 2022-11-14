@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Saper_Coolioer.png">
+	<!-- Created with Adobe Animate version 22.0.4.185 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Saper Down0000" x="20" y="20" width="399" height="646" frameX="-2" frameY="-12" frameWidth="402" frameHeight="658"/>
+	<SubTexture name="Saper Down0001" x="20" y="20" width="399" height="646" frameX="-2" frameY="-12" frameWidth="402" frameHeight="658"/>
+	<SubTexture name="Saper Down0002" x="459" y="20" width="402" height="658"/>
+	<SubTexture name="Saper Down0003" x="459" y="20" width="402" height="658"/>
+	<SubTexture name="Saper Down0004" x="459" y="20" width="402" height="658"/>
+	<SubTexture name="Saper Down0005" x="459" y="20" width="402" height="658"/>
+	<SubTexture name="Saper Down0006" x="459" y="20" width="402" height="658"/>
+	<SubTexture name="Saper Down0007" x="459" y="20" width="402" height="658"/>
+	<SubTexture name="Saper Down0008" x="459" y="20" width="402" height="658"/>
+	<SubTexture name="Saper Down0009" x="459" y="20" width="402" height="658"/>
+	<SubTexture name="Saper Down0010" x="459" y="20" width="402" height="658"/>
+	<SubTexture name="Saper Down0011" x="459" y="20" width="402" height="658"/>
+	<SubTexture name="Saper Down0012" x="459" y="20" width="402" height="658"/>
+	<SubTexture name="Saper Down0013" x="459" y="20" width="402" height="658"/>
+	<SubTexture name="Saper Idle0000" x="901" y="20" width="415" height="677" frameX="0" frameY="-15" frameWidth="424" frameHeight="694"/>
+	<SubTexture name="Saper Idle0001" x="901" y="20" width="415" height="677" frameX="0" frameY="-15" frameWidth="424" frameHeight="694"/>
+	<SubTexture name="Saper Idle0002" x="1356" y="20" width="411" height="684" frameX="-5" frameY="-9" frameWidth="424" frameHeight="694"/>
+	<SubTexture name="Saper Idle0003" x="1356" y="20" width="411" height="684" frameX="-5" frameY="-9" frameWidth="424" frameHeight="694"/>
+	<SubTexture name="Saper Idle0004" x="1807" y="20" width="417" height="692" frameX="-6" frameY="-2" frameWidth="424" frameHeight="694"/>
+	<SubTexture name="Saper Idle0005" x="1807" y="20" width="417" height="692" frameX="-6" frameY="-2" frameWidth="424" frameHeight="694"/>
+	<SubTexture name="Saper Idle0006" x="2264" y="20" width="417" height="694" frameX="-7" frameY="0" frameWidth="424" frameHeight="694"/>
+	<SubTexture name="Saper Idle0007" x="2264" y="20" width="417" height="694" frameX="-7" frameY="0" frameWidth="424" frameHeight="694"/>
+	<SubTexture name="Saper Idle0008" x="2721" y="20" width="417" height="694" frameX="-7" frameY="0" frameWidth="424" frameHeight="694"/>
+	<SubTexture name="Saper Idle0009" x="2721" y="20" width="417" height="694" frameX="-7" frameY="0" frameWidth="424" frameHeight="694"/>
+	<SubTexture name="Saper Idle0010" x="2721" y="20" width="417" height="694" frameX="-7" frameY="0" frameWidth="424" frameHeight="694"/>
+	<SubTexture name="Saper Idle0011" x="2721" y="20" width="417" height="694" frameX="-7" frameY="0" frameWidth="424" frameHeight="694"/>
+	<SubTexture name="Saper Idle0012" x="2721" y="20" width="417" height="694" frameX="-7" frameY="0" frameWidth="424" frameHeight="694"/>
+	<SubTexture name="Saper Idle0013" x="2721" y="20" width="417" height="694" frameX="-7" frameY="0" frameWidth="424" frameHeight="694"/>
+	<SubTexture name="Saper Left0000" x="3178" y="20" width="411" height="676" frameX="0" frameY="-3" frameWidth="417" frameHeight="679"/>
+	<SubTexture name="Saper Left0001" x="3178" y="20" width="411" height="676" frameX="0" frameY="-3" frameWidth="417" frameHeight="679"/>
+	<SubTexture name="Saper Left0002" x="3629" y="20" width="398" height="679" frameX="-19" frameY="0" frameWidth="417" frameHeight="679"/>
+	<SubTexture name="Saper Left0003" x="3629" y="20" width="398" height="679" frameX="-19" frameY="0" frameWidth="417" frameHeight="679"/>
+	<SubTexture name="Saper Left0004" x="3629" y="20" width="398" height="679" frameX="-19" frameY="0" frameWidth="417" frameHeight="679"/>
+	<SubTexture name="Saper Left0005" x="3629" y="20" width="398" height="679" frameX="-19" frameY="0" frameWidth="417" frameHeight="679"/>
+	<SubTexture name="Saper Left0006" x="3629" y="20" width="398" height="679" frameX="-19" frameY="0" frameWidth="417" frameHeight="679"/>
+	<SubTexture name="Saper Left0007" x="3629" y="20" width="398" height="679" frameX="-19" frameY="0" frameWidth="417" frameHeight="679"/>
+	<SubTexture name="Saper Left0008" x="3629" y="20" width="398" height="679" frameX="-19" frameY="0" frameWidth="417" frameHeight="679"/>
+	<SubTexture name="Saper Left0009" x="3629" y="20" width="398" height="679" frameX="-19" frameY="0" frameWidth="417" frameHeight="679"/>
+	<SubTexture name="Saper Left0010" x="3629" y="20" width="398" height="679" frameX="-19" frameY="0" frameWidth="417" frameHeight="679"/>
+	<SubTexture name="Saper Left0011" x="3629" y="20" width="398" height="679" frameX="-19" frameY="0" frameWidth="417" frameHeight="679"/>
+	<SubTexture name="Saper Left0012" x="3629" y="20" width="398" height="679" frameX="-19" frameY="0" frameWidth="417" frameHeight="679"/>
+	<SubTexture name="Saper Left0013" x="3629" y="20" width="398" height="679" frameX="-19" frameY="0" frameWidth="417" frameHeight="679"/>
+	<SubTexture name="Saper Right0000" x="20" y="754" width="409" height="682" frameX="-5" frameY="0" frameWidth="414" frameHeight="682"/>
+	<SubTexture name="Saper Right0001" x="20" y="754" width="409" height="682" frameX="-5" frameY="0" frameWidth="414" frameHeight="682"/>
+	<SubTexture name="Saper Right0002" x="469" y="754" width="401" height="681" frameX="0" frameY="-1" frameWidth="414" frameHeight="682"/>
+	<SubTexture name="Saper Right0003" x="469" y="754" width="401" height="681" frameX="0" frameY="-1" frameWidth="414" frameHeight="682"/>
+	<SubTexture name="Saper Right0004" x="469" y="754" width="401" height="681" frameX="0" frameY="-1" frameWidth="414" frameHeight="682"/>
+	<SubTexture name="Saper Right0005" x="469" y="754" width="401" height="681" frameX="0" frameY="-1" frameWidth="414" frameHeight="682"/>
+	<SubTexture name="Saper Right0006" x="469" y="754" width="401" height="681" frameX="0" frameY="-1" frameWidth="414" frameHeight="682"/>
+	<SubTexture name="Saper Right0007" x="469" y="754" width="401" height="681" frameX="0" frameY="-1" frameWidth="414" frameHeight="682"/>
+	<SubTexture name="Saper Right0008" x="469" y="754" width="401" height="681" frameX="0" frameY="-1" frameWidth="414" frameHeight="682"/>
+	<SubTexture name="Saper Right0009" x="469" y="754" width="401" height="681" frameX="0" frameY="-1" frameWidth="414" frameHeight="682"/>
+	<SubTexture name="Saper Right0010" x="469" y="754" width="401" height="681" frameX="0" frameY="-1" frameWidth="414" frameHeight="682"/>
+	<SubTexture name="Saper Right0011" x="469" y="754" width="401" height="681" frameX="0" frameY="-1" frameWidth="414" frameHeight="682"/>
+	<SubTexture name="Saper Right0012" x="469" y="754" width="401" height="681" frameX="0" frameY="-1" frameWidth="414" frameHeight="682"/>
+	<SubTexture name="Saper Right0013" x="469" y="754" width="401" height="681" frameX="0" frameY="-1" frameWidth="414" frameHeight="682"/>
+	<SubTexture name="Saper Up0000" x="910" y="754" width="413" height="713" frameX="-2" frameY="0" frameWidth="418" frameHeight="713"/>
+	<SubTexture name="Saper Up0001" x="910" y="754" width="413" height="713" frameX="-2" frameY="0" frameWidth="418" frameHeight="713"/>
+	<SubTexture name="Saper Up0002" x="1363" y="754" width="418" height="702" frameX="0" frameY="-11" frameWidth="418" frameHeight="713"/>
+	<SubTexture name="Saper Up0003" x="1363" y="754" width="418" height="702" frameX="0" frameY="-11" frameWidth="418" frameHeight="713"/>
+	<SubTexture name="Saper Up0004" x="1363" y="754" width="418" height="702" frameX="0" frameY="-11" frameWidth="418" frameHeight="713"/>
+	<SubTexture name="Saper Up0005" x="1363" y="754" width="418" height="702" frameX="0" frameY="-11" frameWidth="418" frameHeight="713"/>
+	<SubTexture name="Saper Up0006" x="1363" y="754" width="418" height="702" frameX="0" frameY="-11" frameWidth="418" frameHeight="713"/>
+	<SubTexture name="Saper Up0007" x="1363" y="754" width="418" height="702" frameX="0" frameY="-11" frameWidth="418" frameHeight="713"/>
+	<SubTexture name="Saper Up0008" x="1363" y="754" width="418" height="702" frameX="0" frameY="-11" frameWidth="418" frameHeight="713"/>
+	<SubTexture name="Saper Up0009" x="1363" y="754" width="418" height="702" frameX="0" frameY="-11" frameWidth="418" frameHeight="713"/>
+	<SubTexture name="Saper Up0010" x="1363" y="754" width="418" height="702" frameX="0" frameY="-11" frameWidth="418" frameHeight="713"/>
+	<SubTexture name="Saper Up0011" x="1363" y="754" width="418" height="702" frameX="0" frameY="-11" frameWidth="418" frameHeight="713"/>
+	<SubTexture name="Saper Up0012" x="1363" y="754" width="418" height="702" frameX="0" frameY="-11" frameWidth="418" frameHeight="713"/>
+	<SubTexture name="Saper Up0013" x="1363" y="754" width="418" height="702" frameX="0" frameY="-11" frameWidth="418" frameHeight="713"/>
+</TextureAtlas>

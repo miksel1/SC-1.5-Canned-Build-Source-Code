@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bambinton.png">
+	<!-- why is the image like 13.5 mb -->
+	<SubTexture name="bambintonDown0000" x="0" y="0" width="1073" height="1024" pivotX="392.15" pivotY="522.3"/>
+	<SubTexture name="bambintonDown0001" x="1073" y="0" width="1073" height="1024"/>
+	<SubTexture name="bambintonDown0002" x="2146" y="0" width="1073" height="1024"/>
+	<SubTexture name="bambintonDown0003" x="3219" y="0" width="1073" height="1024"/>
+	<SubTexture name="bambintonDown0004" x="3219" y="0" width="1073" height="1024"/>
+	<SubTexture name="bambintonDown0005" x="4292" y="0" width="1073" height="1024"/>
+	<SubTexture name="bambintonDown0006" x="4292" y="0" width="1073" height="1024"/>
+	<SubTexture name="bambintonIdle0000" x="5365" y="0" width="1128" height="1071" pivotX="461.55" pivotY="559.2"/>
+	<SubTexture name="bambintonIdle0001" x="5365" y="0" width="1128" height="1071"/>
+	<SubTexture name="bambintonIdle0002" x="6493" y="0" width="1128" height="1071"/>
+	<SubTexture name="bambintonIdle0003" x="6493" y="0" width="1128" height="1071"/>
+	<SubTexture name="bambintonIdle0004" x="0" y="1071" width="1128" height="1071"/>
+	<SubTexture name="bambintonIdle0005" x="0" y="1071" width="1128" height="1071"/>
+	<SubTexture name="bambintonIdle0006" x="1128" y="1071" width="1128" height="1071"/>
+	<SubTexture name="bambintonIdle0007" x="1128" y="1071" width="1128" height="1071"/>
+	<SubTexture name="bambintonIdle0008" x="2256" y="1071" width="1128" height="1071"/>
+	<SubTexture name="bambintonIdle0009" x="2256" y="1071" width="1128" height="1071"/>
+	<SubTexture name="bambintonLeft0000" x="3384" y="1071" width="1289" height="1027" pivotX="902.15" pivotY="540.3"/>
+	<SubTexture name="bambintonLeft0001" x="4673" y="1071" width="1289" height="1027"/>
+	<SubTexture name="bambintonLeft0002" x="5962" y="1071" width="1289" height="1027"/>
+	<SubTexture name="bambintonLeft0003" x="0" y="2142" width="1289" height="1027"/>
+	<SubTexture name="bambintonLeft0004" x="0" y="2142" width="1289" height="1027"/>
+	<SubTexture name="bambintonLeft0005" x="1289" y="2142" width="1289" height="1027"/>
+	<SubTexture name="bambintonLeft0006" x="1289" y="2142" width="1289" height="1027"/>
+	<SubTexture name="bambintonRight0000" x="2578" y="2142" width="1356" height="1088" pivotX="765.7" pivotY="540.35"/>
+	<SubTexture name="bambintonRight0001" x="3934" y="2142" width="1356" height="1088"/>
+	<SubTexture name="bambintonRight0002" x="5290" y="2142" width="1356" height="1088"/>
+	<SubTexture name="bambintonRight0003" x="6646" y="2142" width="1356" height="1088"/>
+	<SubTexture name="bambintonRight0004" x="6646" y="2142" width="1356" height="1088"/>
+	<SubTexture name="bambintonRight0005" x="0" y="3230" width="1356" height="1088"/>
+	<SubTexture name="bambintonRight0006" x="0" y="3230" width="1356" height="1088"/>
+	<SubTexture name="bambintonUp0000" x="1356" y="3230" width="875" height="1049" pivotX="496.05" pivotY="548.35"/>
+	<SubTexture name="bambintonUp0001" x="2231" y="3230" width="875" height="1049"/>
+	<SubTexture name="bambintonUp0002" x="3106" y="3230" width="875" height="1049"/>
+	<SubTexture name="bambintonUp0003" x="3981" y="3230" width="875" height="1049"/>
+	<SubTexture name="bambintonUp0004" x="3981" y="3230" width="875" height="1049"/>
+	<SubTexture name="bambintonUp0005" x="4856" y="3230" width="875" height="1049"/>
+	<SubTexture name="bambintonUp0006" x="4856" y="3230" width="875" height="1049"/>
+</TextureAtlas>

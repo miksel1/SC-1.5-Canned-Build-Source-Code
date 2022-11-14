@@ -1,0 +1,129 @@
+{
+	"storyName": "bonus",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week4",
+	"startUnlocked": false,
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+          [
+			"Flip Phone",
+			"linbi",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Memories",
+			"bevelbambi",
+			[
+				0,
+				175,
+				0
+			]
+		],
+		[
+			"Cyanide",
+			"dortas",
+			[
+				160,
+				255,
+				255
+			]
+		],
+		[
+			"Cooling",
+			"bumbo",
+			[
+				0,
+				113,
+				253
+			]
+		],
+		[
+			"Aisukon",
+			"bambice",
+			[
+				0,
+				153,
+				215
+			]
+		],
+		[
+			"High Serve",
+			"bambinton",
+			[
+				0,
+				145,
+				255
+			]
+		],
+		[
+			"Dwindling",
+			"carl",
+			[
+				146,
+				0,
+				255
+			]
+		],
+		[
+			"Roll The Dice",
+			"wize",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Epitome",
+			"epitome",
+			[
+				0,
+				60,
+				0
+			]
+		],
+		[
+			"Fucked",
+			"hjoim",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"Tribulation",
+			"tribulation",
+			[
+				40,
+				40,
+				80
+			]
+		],
+		[
+			"Shiny",
+			"diambi",
+			[
+				0,
+				0,
+				113
+			]
+		]
+	],
+	"weekName": "coolshit"
+}

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="matiaris_3d.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Up0000" x="1510" y="1135" width="347" height="550" frameX="-1" frameY="-6" frameWidth="349" frameHeight="563"/>
+	<SubTexture name="Up0001" x="812" y="585" width="349" height="563"/>
+	<SubTexture name="down0000" x="1161" y="1135" width="349" height="549" frameX="0" frameY="-3" frameWidth="349" frameHeight="555"/>
+	<SubTexture name="down0001" x="812" y="1148" width="349" height="555"/>
+	<SubTexture name="idle0000" x="779" y="0" width="349" height="585" frameX="0" frameY="0" frameWidth="358" frameHeight="585"/>
+	<SubTexture name="idle0001" x="1477" y="0" width="349" height="571" frameX="-5" frameY="-14" frameWidth="358" frameHeight="585"/>
+	<SubTexture name="idle0002" x="1477" y="571" width="349" height="564" frameX="-9" frameY="-21" frameWidth="358" frameHeight="585"/>
+	<SubTexture name="idle0003" x="1128" y="0" width="349" height="585" frameX="0" frameY="0" frameWidth="358" frameHeight="585"/>
+	<SubTexture name="left0000" x="0" y="0" width="438" height="540" frameX="0" frameY="0" frameWidth="438" frameHeight="541"/>
+	<SubTexture name="left0001" x="400" y="1121" width="412" height="541" frameX="-22" frameY="0" frameWidth="438" frameHeight="541"/>
+	<SubTexture name="right0000" x="406" y="540" width="373" height="572" frameX="-16" frameY="-4" frameWidth="406" frameHeight="581"/>
+	<SubTexture name="right0001" x="0" y="1121" width="400" height="579" frameX="-3" frameY="-1" frameWidth="406" frameHeight="581"/>
+	<SubTexture name="right0002" x="0" y="540" width="406" height="581"/>
+</TextureAtlas>

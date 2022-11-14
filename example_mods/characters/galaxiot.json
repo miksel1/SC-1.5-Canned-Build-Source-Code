@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				260,
+				261
+			],
+			"indices": [],
+			"fps": 32,
+			"anim": "idle",
+			"loop": false,
+			"name": "galaxiot"
+		},
+		{
+			"offsets": [
+				260,
+				261
+			],
+			"indices": [],
+			"fps": 40,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "galaxiot"
+		},
+		{
+			"offsets": [
+				260,
+				261
+			],
+			"indices": [],
+			"fps": 40,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "galaxiot"
+		},
+		{
+			"offsets": [
+				260,
+				261
+			],
+			"indices": [],
+			"fps": 40,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "galaxiot"
+		},
+		{
+			"offsets": [
+				260,
+				261
+			],
+			"indices": [],
+			"fps": 40,
+			"anim": "singUP",
+			"loop": false,
+			"name": "galaxiot"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/galaxiot",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "tribulation",
+	"flip_x": false,
+	"healthbar_colors": [
+		35,
+		80,
+		95
+	],
+	"camera_position": [
+		-270,
+		-110
+	],
+	"sing_duration": 4,
+	"scale": 1.4
+}

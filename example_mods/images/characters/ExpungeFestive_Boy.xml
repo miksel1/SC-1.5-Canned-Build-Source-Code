@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ExpungeFestive_Boy.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Xpunged Down0000" x="20" y="20" width="363" height="448" frameX="-5" frameY="0" frameWidth="376" frameHeight="456"/>
+	<SubTexture name="Xpunged Down0001" x="20" y="20" width="363" height="448" frameX="-5" frameY="0" frameWidth="376" frameHeight="456"/>
+	<SubTexture name="Xpunged Down0002" x="433" y="20" width="374" height="431" frameX="-2" frameY="-19" frameWidth="376" frameHeight="456"/>
+	<SubTexture name="Xpunged Down0003" x="433" y="20" width="374" height="431" frameX="-2" frameY="-19" frameWidth="376" frameHeight="456"/>
+	<SubTexture name="Xpunged Down0004" x="857" y="20" width="374" height="431" frameX="0" frameY="-25" frameWidth="376" frameHeight="456"/>
+	<SubTexture name="Xpunged Down0005" x="857" y="20" width="374" height="431" frameX="0" frameY="-25" frameWidth="376" frameHeight="456"/>
+	<SubTexture name="Xpunged Idle0000" x="1281" y="20" width="253" height="423" frameX="0" frameY="-7" frameWidth="253" frameHeight="437"/>
+	<SubTexture name="Xpunged Idle0001" x="1281" y="20" width="253" height="423" frameX="0" frameY="-7" frameWidth="253" frameHeight="437"/>
+	<SubTexture name="Xpunged Idle0002" x="1584" y="20" width="253" height="437"/>
+	<SubTexture name="Xpunged Idle0003" x="1584" y="20" width="253" height="437"/>
+	<SubTexture name="Xpunged Idle0004" x="20" y="518" width="253" height="427" frameX="0" frameY="-9" frameWidth="253" frameHeight="437"/>
+	<SubTexture name="Xpunged Idle0005" x="20" y="518" width="253" height="427" frameX="0" frameY="-9" frameWidth="253" frameHeight="437"/>
+	<SubTexture name="Xpunged Left0000" x="323" y="518" width="401" height="453" frameX="-90" frameY="-27" frameWidth="526" frameHeight="490"/>
+	<SubTexture name="Xpunged Left0001" x="323" y="518" width="401" height="453" frameX="-90" frameY="-27" frameWidth="526" frameHeight="490"/>
+	<SubTexture name="Xpunged Left0002" x="774" y="518" width="481" height="481" frameX="-45" frameY="-8" frameWidth="526" frameHeight="490"/>
+	<SubTexture name="Xpunged Left0003" x="774" y="518" width="481" height="481" frameX="-45" frameY="-8" frameWidth="526" frameHeight="490"/>
+	<SubTexture name="Xpunged Left0004" x="1305" y="518" width="522" height="490" frameX="0" frameY="0" frameWidth="526" frameHeight="490"/>
+	<SubTexture name="Xpunged Left0005" x="1305" y="518" width="522" height="490" frameX="0" frameY="0" frameWidth="526" frameHeight="490"/>
+	<SubTexture name="Xpunged Right0000" x="20" y="1058" width="444" height="453" frameX="-26" frameY="-6" frameWidth="499" frameHeight="481"/>
+	<SubTexture name="Xpunged Right0001" x="20" y="1058" width="444" height="453" frameX="-26" frameY="-6" frameWidth="499" frameHeight="481"/>
+	<SubTexture name="Xpunged Right0002" x="514" y="1058" width="475" height="467" frameX="-8" frameY="-11" frameWidth="499" frameHeight="481"/>
+	<SubTexture name="Xpunged Right0003" x="514" y="1058" width="475" height="467" frameX="-8" frameY="-11" frameWidth="499" frameHeight="481"/>
+	<SubTexture name="Xpunged Right0004" x="1039" y="1058" width="499" height="481"/>
+	<SubTexture name="Xpunged Right0005" x="1039" y="1058" width="499" height="481"/>
+	<SubTexture name="Xpunged Up0000" x="1588" y="1058" width="251" height="417" frameX="0" frameY="-12" frameWidth="251" frameHeight="434"/>
+	<SubTexture name="Xpunged Up0001" x="1588" y="1058" width="251" height="417" frameX="0" frameY="-12" frameWidth="251" frameHeight="434"/>
+	<SubTexture name="Xpunged Up0002" x="20" y="1589" width="251" height="421" frameX="0" frameY="-9" frameWidth="251" frameHeight="434"/>
+	<SubTexture name="Xpunged Up0003" x="20" y="1589" width="251" height="421" frameX="0" frameY="-9" frameWidth="251" frameHeight="434"/>
+	<SubTexture name="Xpunged Up0004" x="321" y="1589" width="251" height="434"/>
+	<SubTexture name="Xpunged Up0005" x="321" y="1589" width="251" height="434"/>
+</TextureAtlas>

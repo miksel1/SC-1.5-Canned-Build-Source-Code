@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="opposition.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->s
+	<SubTexture name="TALK0000" x="515" y="0" width="515" height="515"/>
+	<SubTexture name="TALK0001" x="1030" y="0" width="515" height="515"/>
+	<SubTexture name="TALK0002" x="1030" y="0" width="515" height="515"/>
+	<SubTexture name="IDLE0000" x="0" y="515" width="515" height="515"/>
+	<SubTexture name="IDLE0001" x="0" y="515" width="515" height="515"/>
+	<SubTexture name="IDLE0002" x="0" y="515" width="515" height="515"/>
+	<SubTexture name="IDLE0003" x="0" y="515" width="515" height="515"/>
+	<SubTexture name="IDLE0004" x="0" y="515" width="515" height="515"/>
+	<SubTexture name="IDLE0005" x="515" y="515" width="515" height="515"/>
+	<SubTexture name="IDLE0006" x="515" y="515" width="515" height="515"/>
+	<SubTexture name="IDLE0007" x="1030" y="515" width="515" height="515"/>
+	<SubTexture name="IDLE0008" x="1030" y="515" width="515" height="515"/>
+	<SubTexture name="IDLE0009" x="0" y="1030" width="515" height="515"/>
+</TextureAtlas>

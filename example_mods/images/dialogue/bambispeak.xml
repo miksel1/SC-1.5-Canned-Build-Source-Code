@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bambispeak.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="talking normal0000" x="0" y="0" width="210" height="298" frameX="-4" frameY="0" frameWidth="219" frameHeight="298"/>
+	<SubTexture name="talking normal0001" x="0" y="0" width="210" height="298" frameX="-4" frameY="0" frameWidth="219" frameHeight="298"/>
+	<SubTexture name="talking normal0002" x="210" y="0" width="214" height="295" frameX="-2" frameY="-3" frameWidth="219" frameHeight="298"/>
+	<SubTexture name="talking normal0003" x="210" y="0" width="214" height="295" frameX="-2" frameY="-3" frameWidth="219" frameHeight="298"/>
+	<SubTexture name="talking normal0004" x="424" y="0" width="219" height="293" frameX="0" frameY="-5" frameWidth="219" frameHeight="298"/>
+	<SubTexture name="talking normal0005" x="424" y="0" width="219" height="293" frameX="0" frameY="-5" frameWidth="219" frameHeight="298"/>
+	<SubTexture name="talking aggitated0000" x="643" y="0" width="214" height="297" frameX="-2" frameY="0" frameWidth="219" frameHeight="297"/>
+	<SubTexture name="talking aggitated0001" x="643" y="0" width="214" height="297" frameX="-2" frameY="0" frameWidth="219" frameHeight="297"/>
+	<SubTexture name="talking aggitated0002" x="0" y="298" width="217" height="294" frameX="-1" frameY="-3" frameWidth="219" frameHeight="297"/>
+	<SubTexture name="talking aggitated0003" x="0" y="298" width="217" height="294" frameX="-1" frameY="-3" frameWidth="219" frameHeight="297"/>
+	<SubTexture name="talking aggitated0004" x="219" y="592" width="219" height="293" frameX="0" frameY="-4" frameWidth="219" frameHeight="293"/>
+	<SubTexture name="talking aggitated0005" x="219" y="592" width="219" height="293" frameX="0" frameY="-4" frameWidth="219" frameHeight="293"/>
+	<SubTexture name="talking confused0000" x="217" y="298" width="220" height="293" frameX="-9" frameY="0" frameWidth="229" frameHeight="293"/>
+	<SubTexture name="talking confused0001" x="217" y="298" width="220" height="293" frameX="-9" frameY="0" frameWidth="229" frameHeight="293"/>
+	<SubTexture name="talking confused0002" x="437" y="298" width="219" height="293" frameX="-4" frameY="0" frameWidth="229" frameHeight="293"/>
+	<SubTexture name="talking confused0003" x="437" y="298" width="219" height="293" frameX="-4" frameY="0" frameWidth="229" frameHeight="293"/>
+	<SubTexture name="talking confused0004" x="0" y="592" width="219" height="293"/>
+	<SubTexture name="talking confused0005" x="0" y="592" width="219" height="293"/>
+	<SubTexture name="talkingidle0000" x="656" y="298" width="219" height="293"/>
+	<SubTexture name="talking idle confused0000" x="0" y="592" width="219" height="293"/>
+	<SubTexture name="talking idle confused0001" x="0" y="592" width="219" height="293"/>
+	<SubTexture name="talkingidle aggitated0000" x="219" y="592" width="219" height="293"/>
+</TextureAtlas>

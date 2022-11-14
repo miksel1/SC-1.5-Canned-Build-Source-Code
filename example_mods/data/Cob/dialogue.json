@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bambispeak",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "ITS LATE AT NIGHT WHAT DO YOU WANT!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Another song"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bambispeak",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "NO!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Please"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bambispeak",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "NO IM GONNA BLOCK YOU!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "demon",
+			"text": "YOU ARE DOING ANOTHER"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "coolswag"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bambispeak",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "FINE BUT AFTER LEAVE AND DONT COME BACK EVER OR IM GONNA BLOCK YOU!!"
+		}
+	]
+}

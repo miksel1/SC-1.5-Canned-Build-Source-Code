@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="main extra joke hidden.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="extra basic instance 10000" x="0" y="0" width="281" height="96"/>
+	<SubTexture name="extra basic instance 10001" x="0" y="0" width="281" height="96"/>
+	<SubTexture name="extra basic instance 10002" x="0" y="0" width="281" height="96"/>
+	<SubTexture name="extra basic instance 10003" x="281" y="0" width="281" height="96"/>
+	<SubTexture name="extra basic instance 10004" x="281" y="0" width="281" height="96"/>
+	<SubTexture name="extra basic instance 10005" x="281" y="0" width="281" height="96"/>
+	<SubTexture name="extra basic instance 10006" x="562" y="0" width="281" height="96"/>
+	<SubTexture name="extra basic instance 10007" x="562" y="0" width="281" height="96"/>
+	<SubTexture name="extra basic instance 10008" x="562" y="0" width="281" height="96"/>
+	<SubTexture name="extra white instance 10000" x="843" y="0" width="394" height="135" frameX="0" frameY="-1" frameWidth="396" frameHeight="138"/>
+	<SubTexture name="extra white instance 10001" x="1237" y="0" width="392" height="138" frameX="-4" frameY="0" frameWidth="396" frameHeight="138"/>
+	<SubTexture name="extra white instance 10002" x="1629" y="0" width="392" height="134" frameX="-2" frameY="-3" frameWidth="396" frameHeight="138"/>
+	<SubTexture name="hidden basic instance 10000" x="0" y="138" width="346" height="103"/>
+	<SubTexture name="hidden basic instance 10001" x="0" y="138" width="346" height="103"/>
+	<SubTexture name="hidden basic instance 10002" x="0" y="138" width="346" height="103"/>
+	<SubTexture name="hidden basic instance 10003" x="346" y="138" width="346" height="103"/>
+	<SubTexture name="hidden basic instance 10004" x="346" y="138" width="346" height="103"/>
+	<SubTexture name="hidden basic instance 10005" x="346" y="138" width="346" height="103"/>
+	<SubTexture name="hidden basic instance 10006" x="692" y="138" width="346" height="103"/>
+	<SubTexture name="hidden basic instance 10007" x="692" y="138" width="346" height="103"/>
+	<SubTexture name="hidden basic instance 10008" x="692" y="138" width="346" height="103"/>
+	<SubTexture name="hidden white instance 10000" x="1038" y="138" width="513" height="151" frameX="-3" frameY="-4" frameWidth="518" frameHeight="159"/>
+	<SubTexture name="hidden white instance 10001" x="0" y="289" width="516" height="154" frameX="-2" frameY="-2" frameWidth="518" frameHeight="159"/>
+	<SubTexture name="hidden white instance 10002" x="516" y="289" width="518" height="159"/>
+	<SubTexture name="joke basic instance 10000" x="1034" y="289" width="232" height="109"/>
+	<SubTexture name="joke basic instance 10001" x="1034" y="289" width="232" height="109"/>
+	<SubTexture name="joke basic instance 10002" x="1034" y="289" width="232" height="109"/>
+	<SubTexture name="joke basic instance 10003" x="1266" y="289" width="232" height="109"/>
+	<SubTexture name="joke basic instance 10004" x="1266" y="289" width="232" height="109"/>
+	<SubTexture name="joke basic instance 10005" x="1266" y="289" width="232" height="109"/>
+	<SubTexture name="joke basic instance 10006" x="1498" y="289" width="232" height="109"/>
+	<SubTexture name="joke basic instance 10007" x="1498" y="289" width="232" height="109"/>
+	<SubTexture name="joke basic instance 10008" x="1498" y="289" width="232" height="109"/>
+	<SubTexture name="joke white instance 10000" x="0" y="448" width="342" height="160" frameX="-2" frameY="0" frameWidth="349" frameHeight="160"/>
+	<SubTexture name="joke white instance 10001" x="342" y="448" width="349" height="156" frameX="0" frameY="-1" frameWidth="349" frameHeight="160"/>
+	<SubTexture name="joke white instance 10002" x="691" y="448" width="340" height="158" frameX="-2" frameY="-1" frameWidth="349" frameHeight="160"/>
+	<SubTexture name="main basic instance 10000" x="1031" y="448" width="223" height="89"/>
+	<SubTexture name="main basic instance 10001" x="1031" y="448" width="223" height="89"/>
+	<SubTexture name="main basic instance 10002" x="1031" y="448" width="223" height="89"/>
+	<SubTexture name="main basic instance 10003" x="1254" y="448" width="223" height="89"/>
+	<SubTexture name="main basic instance 10004" x="1254" y="448" width="223" height="89"/>
+	<SubTexture name="main basic instance 10005" x="1254" y="448" width="223" height="89"/>
+	<SubTexture name="main basic instance 10006" x="1477" y="448" width="223" height="89"/>
+	<SubTexture name="main basic instance 10007" x="1477" y="448" width="223" height="89"/>
+	<SubTexture name="main basic instance 10008" x="1477" y="448" width="223" height="89"/>
+	<SubTexture name="main white instance 10000" x="0" y="608" width="363" height="144" frameX="-2" frameY="0" frameWidth="365" frameHeight="149"/>
+	<SubTexture name="main white instance 10001" x="363" y="608" width="360" height="144" frameX="-3" frameY="-3" frameWidth="365" frameHeight="149"/>
+	<SubTexture name="main white instance 10002" x="723" y="608" width="361" height="145" frameX="0" frameY="-4" frameWidth="365" frameHeight="149"/>
+</TextureAtlas>

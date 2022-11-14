@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-110,
+				-150
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				-160,
+				-98
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "singDOWN"
+		},
+		{
+			"offsets": [
+				-141,
+				-142
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "singLEFT"
+		},
+		{
+			"offsets": [
+				-154,
+				-151
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "singRIGHT"
+		},
+		{
+			"offsets": [
+				-169,
+				-185
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "singUP"
+		},
+		{
+			"offsets": [
+				-230,
+				-80
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "laugh",
+			"loop": false,
+			"name": "laughLONG"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BenoitFaker_Assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "faker",
+	"flip_x": false,
+	"healthbar_colors": [
+		60,
+		0,
+		0
+	],
+	"camera_position": [
+		40,
+		90
+	],
+	"sing_duration": 4,
+	"scale": 1.9
+}

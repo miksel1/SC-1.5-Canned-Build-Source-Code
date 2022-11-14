@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="static.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="statica0000" x="0" y="0" width="500" height="500"/>
+	<SubTexture name="statica0001" x="581" y="0" width="500" height="500"/>
+	<SubTexture name="statica0002" x="1162" y="0" width="500" height="500"/>
+	<SubTexture name="statica0003" x="1743" y="0" width="500" height="500"/>
+	<SubTexture name="statica0004" x="2324" y="0" width="500" height="500"/>
+	<SubTexture name="statica0005" x="2905" y="0" width="500" height="500"/>
+	<SubTexture name="statica0006" x="3486" y="0" width="500" height="500"/>
+	<SubTexture name="statica0007" x="0" y="581" width="500" height="500"/>
+	<SubTexture name="statica0008" x="581" y="581" width="500" height="500"/>
+	<SubTexture name="statica0009" x="1162" y="581" width="500" height="500"/>
+	<SubTexture name="statica0010" x="1743" y="581" width="500" height="500"/>
+	<SubTexture name="statica0011" x="2324" y="581" width="500" height="500"/>
+	<SubTexture name="statica0012" x="2905" y="581" width="500" height="500"/>
+	<SubTexture name="statica0013" x="3486" y="581" width="500" height="500"/>
+	<SubTexture name="statica0014" x="0" y="1162" width="500" height="500"/>
+	<SubTexture name="statica0015" x="581" y="1162" width="500" height="500"/>
+	<SubTexture name="statica0016" x="1162" y="1162" width="500" height="500"/>
+	<SubTexture name="statica0017" x="1743" y="1162" width="500" height="500"/>
+	<SubTexture name="statica0018" x="2324" y="1162" width="500" height="500"/>
+	<SubTexture name="statica0019" x="2905" y="1162" width="500" height="500"/>
+	<SubTexture name="statica0020" x="3486" y="1162" width="500" height="500"/>
+	<SubTexture name="statica0021" x="0" y="1743" width="500" height="500"/>
+	<SubTexture name="statica0022" x="581" y="1743" width="500" height="500"/>
+	<SubTexture name="statica0023" x="1162" y="1743" width="500" height="500"/>
+	<SubTexture name="statica0024" x="1743" y="1743" width="500" height="500"/>
+	<SubTexture name="statica0025" x="2324" y="1743" width="500" height="500"/>
+	<SubTexture name="statica0026" x="2905" y="1743" width="500" height="500"/>
+	<SubTexture name="statica0027" x="3486" y="1743" width="500" height="500"/>
+	<SubTexture name="statica0028" x="0" y="2324" width="500" height="500"/>
+	<SubTexture name="statica0029" x="581" y="2324" width="500" height="500"/>
+	<SubTexture name="statica0030" x="1162" y="2324" width="500" height="500"/>
+</TextureAtlas>

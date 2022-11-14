@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="futileshoot.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="shoot0000" x="0" y="0" width="800" height="600"/>
+	<SubTexture name="shoot0001" x="800" y="0" width="800" height="600"/>
+	<SubTexture name="shoot0002" x="0" y="0" width="800" height="600"/>
+</TextureAtlas>
